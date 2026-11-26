@@ -1,0 +1,1768 @@
+# EU-DON
+
+[page 1] (text layer)
+II
+(Information)
+INFORMATION FROM EUROPEAN UNION INSTITUTIONS, BODIES, OFFICES 
+AND
+ AGENCIES
+EUROPEAN COMMISSION
+COMMISSION NOTICE
+EU guidelines on food donation
+(2017/C 361/01)
+Table of contents
+ Page
+1. Introduction ............................................................................................................... 2
+1.1. Background ................................................................................................................ 2
+1.2. Purpose ..................................................................................................................... 3
+2. Scope ....................................................................................................................... 4
+2.1. What is food redistribution? ............................................................................................ 4
+2.2. What is surplus food? .................................................................................................... 4
+2.3. Who are the actors? ...................................................................................................... 5
+3. Food redistribution: roles and obligations of actors ................................................................ 6
+3.1. Activities of redistribution and charity organisations ............................................................... 8
+3.1.1. Sorting of surplus food for redistribution ............................................................................ 9
+3.2. Traceability ................................................................................................................ 9
+4. Determination of primary responsibility and liability when food safety issues arise .......................... 11
+4.1. Legal context .............................................................................................................. 11
+4.2. Implications for redistribution of surplus food ...................................................................... 12
+5. Hygiene regulations and redistribution of surplus food ............................................................ 12
+5.1. General hygiene requirements applicable to all food donation activities ........................................ 13
+5.2. Specific hygiene requirements applicable to redistribution of food of animal origin .......................... 13
+5.3. Hygiene req uirements applicable to redistribution of surplus food from the hospitality, catering and 
+food service sectors ...................................................................................................... 14
+5.4. Freezing of surplus food to facilitate redistribution ................................................................. 15
+6. Food information to consumers ....................................................................................... 15
+6.1. Legal context .............................................................................................................. 15
+6.2. Implications for redistribution of surplus food ...................................................................... 17
+6.2.1. Information requirements for pre-packed foods ..................................................................... 17
+6.2.2. Language requirements .................................................................................................. 17
+6.2.3. Information requirements for non-prepacked foods ................................................................ 17
+25.10.2017 EN Official Journal of the European Union C 361/1
+
+[page 2] (text layer)
+6.3. Date marking .............................................................................................................. 18
+6.3.1. Legal context .............................................................................................................. 18
+6.3.2. Im
+plications for redistribution of surplus food ...................................................................... 18
+6.3.3. Eggs: date marking rules and redistribution practices .............................................................. 19
+7. Fiscal rules ................................................................................................................. 19
+7.1. V
+alue added tax (VAT) ................................................................................................... 19
+7.2. Fiscal incentives ........................................................................................................... 20
+8. Other EU programmes .................................................................................................. 21
+8.1. Fund for European Aid to the Most Deprived and food donations .............................................. 21
+8.2. Common Organisation of the markets in agricultural products .................................................. 21
+8.3. Common Organisation of the markets in fishery and aquaculture products ................................... 22
+References ............................................................................................................................... 23
+Anne
+x 1: Summary table of legal provisions with relevance for food donation ........................................... 25
+Annex 2: Decision tree: Do I need to comply with Regulation (EC) No 853/2004 as a retailer supplying to charity 
+org
+anisation/food bank or as charity organisation/food bank? .................................................... 29
+1. INTRODUCTION
+1.1. Background
+In the EU, close to one-quarter of the population – 119,1 million people – were at risk of poverty or social exclusion in 
+2015
+ and 42,5 million people were not able to afford a quality meal ev ery second day (1). At the same time, it is esti
+mat
+ed that around 88 million tonnes of food waste are generated annually in the EU with associated costs estimated at 
+143
+ billion EUR (2).
+In
+ addition to its important economic and societal impact, food waste places undue pressure on finite natural resources 
+and on the
+ environment. According to the Food and Agriculture Organisation of the United Nations (FAO), approxi
+mately one third of all food produced in the world is lost or wasted (3). Food that is harvested but ultimately lost or 
+w
+asted consumes about one quarter of all water used by agriculture each year (4) and requires cropland area the size of 
+China (5). Food waste generates about 8 % of global greenhouse gas emissions annually (6).
+The primary focus of food waste prevention should be to act at the source by limiting the generation of surplus food at 
+each
+ stage in the food supply chain (i.e. production, processing, distribution and consumption). When food surpluses 
+occur, the best destination, which ensures the highest value use of edible food resources, is to redistribute these for 
+human consumption.
+Food donation not only supports the fight against food poverty but can be an effective lever in reducing the amount of 
+surplus
+ food put to industrial uses or sent for waste treatment and ultimately to landfill. However, even though redistri
+bution of food surplus is a growing phenomenon and food manufacturers and retailers are willing to donate their sur
+plus to food banks and charities, the amount of food redistributed still represents a small fraction of the overall edible 
+sur
+plus food available in the EU. For instance, in 2016, members of the European Federation of Food Banks (FEBA) 
+distributed 535 000 tons of food to 6,1 million people (7), which represents only a small fraction of the estimated vol
+ume
+ of food waste generated annually in the EU.
+(1) Eurostat, 2017.
+(2) ‘Estimates of European food waste levels’, FUSIONS (March 2016).
+(3) F AO (Food and Agriculture Organisation of the United Nations). 2011. ‘Global Food Losses and Food Waste — Extent, Causes and 
+Pre
+vention’. Rome: UN FAO.
+(4) M.
+ Kummu, H. de Moel, M. Porkka, S. Siebert, O. Varis and P.J. Ward. 2012. ‘Lost Food, Wasted Resources: Global Food Supply Chain 
+Losses 
+and Their Impacts on Freshwater, Cropland and Fertilizer Use’. Science of the Total Environment 438: 477-489.
+(5) F
+AO. 2013. ‘Food Wastage Footprint & Climate Change’. Rome: UN FAO.
+(6) F AO. 2015. ‘Food Wastage Footprint & Climate Change’. Rome: UN FAO.
+(7) Eur opean Federation of Food Banks (FEBA): http://www.eurofoodbank.eu/ In addition, the Tafel (German ‘food banks’ which are not 
+members
+ of FEBA) distributes some 220 000 T of food annually to approximately 1,5 million people.
+C 361/2 EN Official Journal of the European Union 25.10.2017
+
+[page 3] (text layer)
+Member States (MS) and stakeholders have identified legal and operational barriers, for donors and receivers, to the 
+redistr
+ibution of safe, edible food in the EU (1). The Action Plan proposed by the Commission to promote a Circular 
+Econom
+y (2) therefore requires the Commission, inter alia, to clarify EU legislation related to food in order to facilitate 
+f
+ood donation.
+1.2. Purpose
+This guidance aims to clarify relevant provisions in EU legislation and help to lift barriers to food redistribution within 
+the current EU regulatory framework. More specifically, these guidelines will seek to:
+— facilitate compliance of providers and recipients of surplus food with relevant requirements laid down in the EU 
+regulatory framework (e.g. food safety, food hygiene, traceability, liability, VAT, etc.);
+— promote common inter pretation by regulatory authorities in the EU Member States of EU rules applying to the 
+redistribution of surplus food.
+The EU guidelines on food donation necessarily focus on those issues which need to be addressed at EU level, and hence 
+seek to
+ complement but not duplicate those established in the Member States. Guidelines developed at national and/or 
+sectorial levels, often elaborated jointly by redistribution partners and competent authorities (at national and/or regional 
+levels), play an important role in ensuring food safety, traceability and clarifying the roles and responsibilities of various 
+actors involved in the recovery and redistribution of surplus food (3). EU-wide sector ial guidelines (4) can also support 
+f
+ood redistribution efforts and promote sharing of best practice.
+The Commission therefore strongly recommends that relevant rules and/or guidelines on food donation are developed at 
+national 
+level so as to clearly set out for all actors the rules and operating procedures existing at national level, including 
+the respective responsibilities of key players, in order to facilitate compliance and promote best practice. In this regard, 
+the EU guidelines on food donation, adopted by the European Commission in consultation with the EU Platform on 
+Food Losses and Food Waste (5), can serve as a reference for actors in Member States to take into account when elabo
+r
+ating national guidance and rules.
+Member States guidance may also further clarify the roles and responsibilities of food business operators in areas where 
+national rules
+ apply, for instance, in relation to liability (see also section 4). National competent authorities may in 
+addition
+ encourage the elaboration and dissemination of good practice manuals for the recovery and redistribution of 
+surplus food, in accordance with Article 8(3) of Regulation (EC) N o 852/2004 of the European Parliament and of the 
+Council (6). In order to encourage food donation, national competent authorities may wish to consider fiscal incentives 
+f
+or food business operators (cf. section 7.2) as well as the implementation, by actors concerned, of information, com
+munication
+ and training activities to further support safe food redistribution practices on the ground.
+(1) Documented for instance in ‘Comparative study on EU Member States’ legislation and practices on food donations' (EESC, 2014); 
+‘Counting the Cost of Food Waste: EU food waste prevention’ (UK House of Lords, 2013-14); ‘Review of EU legislation and policies 
+with
+ implications on food waste’ (FUSIONS, 2015; ‘Food redistribution in the Nordic Region’ (Nordic Council of Ministers, TemaNord, 
+2014-2016); 
+as well as Commission meetings with and individual contributions received from national competent authorities and 
+stakeholders, including members of the EU Platform on Food Losses and Food Waste established in 2016 as part of the Circular Econ
+omy Action Plan (see http://ec.europa.eu/food/safety/food_waste/eu_actions/index_en.htm).
+(2) Communication
+ from the Commission to the European Parliament, the Council, the European Economic and Social Committee and 
+the
+ Committee of the Regions ‘Closing the loop — An EU action plan for the Circular Economy’ (COM(2015) 614 final).
+(3) ‘Food redistribution in the Nordic Region, phase II: identification of best practice models for enhanced food redistribution’ (Nordic 
+Council 
+of Ministers, TemaNord, 2016).
+(4) F
+or instance, ‘Every Meal Matters — Food donation guidelines’ by FoodDrinkEurope/EuroCommerce/European Federation of Food 
+Banks
+ — endorsed by the European Commission's Standing Committee on Plants, Animals, Food and Feed.
+(5) https://ec.eur
+opa.eu/food/safety/food_waste/eu_actions/eu-platform_en
+(6) R
+egulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the hygiene of foodstuffs 
+(OJ L 139, 30.4.2004, p. 1).
+25.10.2017 EN Official Journal of the European Union C 361/3
+
+[page 4] (text layer)
+In order to facilitate sharing of information on national food donation practices, the Commission publishes guidelines 
+e
+xisting in the EU MS on its website dedicated to food waste prevention (1). Where national and EU-wide sectorial guides 
+of good practice
+ related to food donation are developed in the context of EU rules on food hygiene (2) and notified to 
+t
+he European Commission, these are also made available in an online register (3).
+2. SCOPE
+The scope of the EU guidelines on food donation encompasses the recovery and redistribution of food by food business 
+operat
+ors which are provided, by the holder, free of charge.
+2.1. What is food redistribution?
+Food redistribution is a process whereby surplus food that might otherwise be wasted is recovered, collected and pro
+vided to people, in particular to those in need.
+As part of its work to prevent food losses and waste and promote food security, a multi-disciplinary team of the Food 
+and
+ Agriculture Organisation (FAO) has proposed a definition for ‘ recovery and redistribution for safe and nutritious 
+food for human consumption’ as follows (4):
+— ‘Recovery of safe and nutritious food for human consumption’ is to receive, with or without payment, food (pro
+cessed,
+ semi-processed or raw) which would otherwise be discarded or wasted from the agricultural, livestock and 
+fisheries supply chains of the food system. ‘Redistribution of safe and nutritious food for human consumption’ is to 
+s
+tore or process and then distribute the received food pursuant to appropriate safety, quality and regulatory frame
+works directly or through intermediaries, and with or without payment, to those having access to it for food intake.
+In support of ongoing efforts, at both European Union and national levels, to promote healthy and balanced diets for all 
+European
+ citizens, in particular for children, the redistribution of food products should take into account, whenever 
+possible, their contribution to a balanced diet. In this regard, national nutritional guidelines shall be used as guidance 
+documents.
+The
+ EU guidelines on food donation – while consistent with the definition of food redistribution proposed by FAO – 
+aim to clarify the relevant provisions of EU legislation which apply when food products are made available by the 
+holder, free of charge. Food redistribution encompasses a diverse range of actors, networks and activities which are 
+r
+apidly evolving. Although food banks are the most common and main partners in the field of food redistribution, the 
+guidance provided hereafter, relating to the application of relevant EU rules (e.g. food safety, food hygiene, consumer 
+information, liability, etc.), can also be applied to other food redistribution models and/or actors. The latter may include 
+entities engaging in not-for-profit food redistribution activities, such as social supermarkets or restaurants, where the 
+end beneficiary can in some instances make a nominal payment in exchange for receiving food or meals.
+2.2. What is surplus food?
+Surplus food, consisting of finished food products (including fresh meat, fruit and vegetables), partly formulated prod
+ucts
+ or food ingredients, may arise at any stage of the food production and distribution chain for a variety of reasons. 
+F
+oods which do not meet manufacturer and/or customer specifications (e.g. variations in product colour, size, shape, 
+etc.) as well as production and labelling errors can generate surplus in the agricultural and manufacturing sectors for 
+instance. Difficulties in managing supply and demand can lead to over-ordering and/or cancelled orders. Issues relating 
+to date marking, such as insufficient product life remaining on delivery or national rules preventing the redistribution of 
+foods past the ‘best before’ date, may also prevent foods from being sold and distributed through the usual retail 
+c
+hannels.
+(1) http://ec.europa.eu/food/safety/food_waste/library/index_en.htm
+(2) Regulation (EC) No 852/2004.
+(3) https://webgate.ec.europa.eu/dyna/hygienelegislation/
+(4) Food and Agriculture Organisation (May 2015). Comprehensive definition for ‘recovery and redistribution of safe and nutritious food 
+f
+or human consumption’ (http://www.fao.org/save-food/news-and-multimedia/news/news-details/en/c/288692/).
+C 361/4 EN Official Journal of the European Union 25.10.2017
+
+[page 5] (text layer)
+Surplus food may be redistributed provided that is fit for human consumption and compliant with all food safety 
+r
+equirements (1), as specified by EU rules on food safety and food information to consumers as well as relevant national 
+r
+ules. Foods suitable for food donation may include, for instance, products which: do not meet manufacturer or cus
+tomer specifications; have altered packaging and/or labelling but do not compromise either food safety or consumer 
+information; are time-marked (such as products intended for a specific holiday season or promotional activity); are har
+vested in the fields with the consent of the producer; have passed the ‘best before’ date but can still safely be consumed; 
+hav
+e been collected and/or confiscated by regulatory authorities for reasons other than food safety, etc.
+Redistribution of surplus food and engagement in food donation activities may therefore be carried out by food business 
+operat
+ors at each stage of the food supply chain. Food business operators (e.g. farmers, food manufacturers and retailers) 
+may donate surplus food through redistribution organisations (such as food banks), gleaning networks and other charity 
+organisations or directly to consumers themselves (e.g. employees).
+2.3. Who are the actors?
+The EU guidelines on food donation cover actors involved at each stage of the food supply chain, be they donors or 
+receivers. These guidelines address and aim to clarify the specific responsibilities and obligations of food business opera
+tors in the redistribution of surplus food as laid down in EU food law and in particular Regulation (EC) No 178/2002 of 
+the
+ European Parliament and of the Council (2), the so-called General Food La w.
+The redistribution network for surplus food in the EU is complex, involving different types of actors and operating 
+pr
+ocesses.
+‘Donor’ organisations
+These are food business operators which may provide surplus food from each stage of the food supply chain, i.e.: pri
+mar
+y production, food processing and manufacturing, retail and other distribution as well as the catering and hospital
+ity sectors.
+‘Receiver’ organisations
+These are involved in the redistribution of surplus food and can be classified either as ‘front-’ or ‘back-line’ organisations, 
+with
+ some fulfilling both functions (3):
+— ‘
+Back-line’ organisations recover donated food from actors in the food supply chain which they transport, store and 
+r
+edistribute to a network of affiliated and qualified charitable organisations including charities, social restaurants, 
+social
+ enterprises, etc.
+— ‘Front-line’ organisations receive donated food from ‘ back-line’ organisations and/or directly from actors in the food 
+suppl
+y chain. They, in turn, provide this food to their beneficiaries in various forms (e.g. food parcels, soup kitchens, 
+meals served in social restaurants/cafés, etc.); some may also sell food products to people in need at a subsidised 
+price.
+In many Member States, ‘back-line’ organisations are called ‘ food banks’ ; however in some Member States (e.g. Estonia, 
+Ger
+many and the Netherlands) ‘food banks’ redistribute food not only to other organisations but also provide food 
+dir
+ectly to end beneficiaries. Furthermore, the activities of both the ‘front-’ and ‘back-line’ organisations may vary in the 
+Member St
+ates: some limit their work to storage, transport and distribution of food; others process and prepare food 
+and/or meals which are provided to the end beneficiary.
+This document designates ‘back-line’ organisations as ‘redistribution organisations’ (ROs) and ‘ front-line’ as ‘charity 
+org
+anisations’ (COs).
+(1) UK WRAP has provided guidance on what constitutes food surplus suitable for redistribution as part of a tool to help industry 
+increase 
+redistribution of surplus food and drink in the UK. ‘Framework for Effective Redistribution Partnerships’ (WRAP, 2016).
+(2) R egulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles 
+and 
+requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety 
+(OJ L 31, 1.2.2002, p. 1).
+(3) Classif
+ication proposed in food donation guidelines elaborated by FoodDrinkEurope, EuroCommerce and the European Federation of 
+Food
+ Banks, ‘Every Meal Matters’, June 2016, p. 16.
+25.10.2017 EN Official Journal of the European Union C 361/5
+
+[page 6] (text layer)
+Private donors
+The General Food Law, which sets out the legislative framework underpinning EU food law, does not apply to primary 
+pr
+oduction for private domestic use and the domestic preparation, handling or storage of food for private domestic 
+consumption. It therefore follows that private persons who provide food on an ad hoc basis, at community or ot her 
+charity events including gleaning initiatives, are excluded from obligations relating to the General Food Law as are char
+ity organisations which occasionally receive food from private persons. Nevertheless, Member States may provide addi
+tional clarification in national rules or advice to help charity and community food providers which receive contributions 
+from private donors to comply with the requirement to serve safe food.
+Furthermore, EU rules on food hygiene and food information only apply to undertakings, the concept of which implies 
+a certain continuity of activities and a certain degree of organisation. The scope of the EU guidelines on food donation 
+t
+herefore excludes operations such as the occasional handling, preparation, storage and serving of food by private per
+sons at events such as church, school or village fairs. Additional guidance in this area is provided in section 3.8 of the 
+‘Guidance document on the implementation of certain provisions of Regulation (EC) N o 852/2004 on the hygiene of 
+f
+oodstuffs’ (1). National competent authorities may provide further guidance in order to clarify whether community and 
+c
+harity food supply requires registration under the food hygiene rules (2).
+‘Facilitator’ organisations
+In order to facilitate food redistribution, intermediary organisations may also provide services to enable contact between 
+food
+ donors and receivers and the matching of the supply of surplus food with potential demand. Where information 
+and communications technology (ICT) networks are utilised, the owner of the platform or other digital tool, is encour
+aged to draw attention of food donors and receivers – in instances where such actors are food business operators (see 
+section 3 below) – to their respective obligations under EU food law. The organisation responsible for the ICT network 
+w
+ould be considered as an ‘information society service’ provider as defined in Dir ective 2000/31/EC of the European 
+P
+arliament and of the Council (3).
+In
+ instances where the activities of the ‘ facilitator’ organisation include the preparation, handling, storage and/or distri
+bution
+ of food – for example the management of a public refrigerator where surplus food is made available by donors 
+f
+or further redistribution – the owner is likely to be considered as a food business operator. In such cases, the EU guide
+lines 
+on food donation will be relevant to their activities.
+3. FOOD REDISTRIBUTION: ROLES AND OBLIGATIONS OF ACTORS
+The redistribution of surplus food is covered by the General Food Law. Operations related to the supply of food, 
+whe
+ther for profit or not, are clearly considered as ‘placing on the market’ of food:
+— ‘placing on the market’ means the holding of food or feed for the purpose of sale, including offering for sale or any 
+ot
+her form of transfer, whether free of charge or not, and the sale, distribution, and other forms of transfer 
+themselves (4) .
+Organisations which receive food surplus – be they redistribution (ROs) or charity organisations (COs) – are to be con
+sidered as food business operators under the General Food Law:
+— ‘food business’ means any undertaking, whether for profit or not and whether public or private, carrying out any of 
+the
+ activities related to any stage of production, processing and distribution of food (5).
+(1) https://ec.europa.eu/food/sites/food/files/safety/docs/biosafety_fh_legis_guidance_reg-2004-852_en.pdf
+(2) See for instance: Guidance on the application of EU food hygiene law to community and charity food provision, UK Food Standards 
+Ag
+ency, March 2016.
+(3) Directiv
+e 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society 
+services,
+ in particular electronic commerce, in the Internal Market (Directive on electronic commerce) (OJ L 178, 17.7.2000, p. 1).
+(4) Ar
+ticle 3(8) of the General Food Law.
+(5) Ar
+ticle 3(2) of the General Food Law.
+C 361/6 EN Official Journal of the European Union 25.10.2017
+
+[page 7] (text layer)
+— ‘food business operator’ means the natural or legal persons responsible for ensuring that the requirements of food 
+la
+w are met within the food business under their control (1).
+Ar
+ticle 17 of the General Food Law defines the roles of all food business operators in the entire food chain (i.e. farmers, 
+food
+ and feed manufacturers, importers, brokers, distributors, public and private catering businesses, redistribution and 
+charity organisations, etc.) and that of competent authorities in the EU Member States as follows:
+‘1. Food and feed business operators at all stages of production, processing and distribution within the businesses 
+under
+ their control shall ensure that foods or feeds satisfy the requirements of food law which are relevant to their 
+activities and shall verify that such requirements are met.
+2. Member States shall enforce food law, and monitor and verify that the relevant requirements of food law are fulfilled 
+by
+ food and feed business operators at all stages of production, processing and distribution. […]’ (2).
+Article 17(1) imposes on food business operators an obligation according to which they must actively participate in 
+im
+plementing food law requirements and verify that such requirements are met. This general requirement is closely 
+linked to other mandatory requirements laid down by specific food legislation (for instance, the implementation of Haz
+ard Analysis and Critical Control Points Principles (HACCP) in the field of food hygiene). Therefore, it confers the pri
+mary responsibility (3) for compliance with all requirements of (EU and national) food law on food business operators at 
+all stag
+es of production, processing and distribution within the businesses (or activity in the food supply chain) under 
+their control.
+Given that a food business operator is best placed to devise a safe system for supplying food and ensuring that the food 
+it supplies is safe,
+ it holds primary responsibility for ensuring compliance with food law and in particular food safety. 
+(In regard to the interaction of primary responsibility and legal liability, please refer to Section 4).
+As for all activities related to the production and distribution of food, food business operators engaging in redistribution 
+of surplus
+ food need to assess, on a case-by-case basis, the requirements that are appropriate and ensure, amongst oth
+er
+s, that food safety and consumer information are not compromised. Examples of obligations arising from the general 
+requirement of primary responsibility for organisations which handle and redistribute food surplus (ROs and COs) are, 
+for instance, the need to ensure the proper storage of refrigerated foods to maintain the cold chain, as required by EU 
+rules on food hygiene, and the prohibition of redistributing foods past the ‘use by’ date, as specified by EU rules on the 
+pro
+vision of food information to consumers in relation to safety requirements laid down in the General Food Law (4).
+Food business operat ors involved in food redistribution should apply good hygiene practices and have an auto-control 
+system (HACCP) (5) in place. The definition of such auto-control systems, adapted to redistribution activities, can support 
+the
+ ROs and COs in managing any operational risks as well as verifying that requirements are met; for instance, through 
+the recording and verification of cold storage temperatures. When establishing such a plan, a proportionate, fle xible 
+approach can be envisaged as explained in the relevant Commission Notice (6).
+As food business operators, ROs and COs must also verify that the requirements of food law are met for the activities 
+under
+ their control and may, in this regard, refuse products proposed for donation which could present a risk for the 
+f
+inal consumer (e.g. products with damaged packaging, abnormal aspect of the food, product too close to the ‘use by’ 
+dat
+e to allow for its safe redistribution and use by the consumer prior to its expiration, etc.).
+(1) Article 3(3) of the General Food Law.
+(2) Articles 17(1) and 17(2) of the General Food Law.
+(3) Recital 30 of the General Food Law.
+(4) Article 24 of Regulation (EU) No 1169/2011 on the provision of food information to consumers specifies that ‘after the “use by” date 
+a food shall be deemed to be unsafe (OJ L 304, 22.11.2011, p. 18) in accordance with Article 14(2) to (5) of Regulation (EC) 
+No 178/2002’.
+(5) HA CCP-based procedures or ‘HACCP’: procedures based on the hazard analysis and critical control points (HACCP) principles, i.e. an 
+auto-contr
+ol system which identifies, evaluates and controls hazards which are significant for food safety consistent with the HACCP 
+principles.
+(6) Commission
+ Notice on the implementation of food safety management systems covering prerequisite programs (PRPs) and procedures 
+based 
+on the HACCP principles, including the facilitation/flexibility of the implementation in certain food businesses (2016/C 278/01) 
+(OJ C 278, 30.7.2016, p. 1).
+25.10.2017 EN Official Journal of the European Union C 361/7
+
+[page 8] (text layer)
+As for all actors in the food distribution chain, ROs and COs must ensure in particular that food placed on the market 
+is
+ safe in accordance with the food safety requirements laid down in Article 14 of the General Food Law, which reads as 
+follows:
+‘1. F ood shall not be placed on the market if it is unsafe.
+2. Food shall be deemed to be unsafe if it is considered to be: (a) injurious to health; (b) unfit for human consumption. 
+[…]’ (1).
+The
+ concepts of ‘injurious to health’ and ‘unfit for human consumption’ are further explained in Articles 14(3)-14(5) of 
+the
+ General Food Law as well as in guidance (2) elaborated by the Commission and Member States to support all players 
+in 
+fulfilling obligations related to the General Food Law.
+The General Food Law also imposes a general traceability requirement on all foods placed on the EU market (see also 
+Section
+ 3.2 where this requirement is further elaborated):
+‘— The traceability of food, feed, food-producing animals, and any other substance intended to be, or expected to be, 
+incor
+porated into a food or feed shall be established at all stages of production, processing and distribution’ (3).
+In order to meet the general traceability requirement, organisations taking part in the redistribution of food surplus 
+need
+ to keep records of where they source foods from and, if they provide foods to other businesses, they must also 
+document to whom the food has been distributed (cf. section 3.2).
+All food business operators are also required to withdraw, recall or notify unsafe food as outlined in Ar ticle 19 of the 
+Gener
+al Food Law:
+‘1. If a food business operat or considers or has reason to believe that a food which it has imported, produced, pro
+cessed,
+ manufactured or distributed is not in compliance with the food safety requirements, it shall immediately 
+initiate procedures to withdraw the food in question from the market where the food has left the immediate control 
+of that initial food business operator and inform the competent authorities thereof. Where the product may have 
+reached the consumer, the operator shall effectively and accurately inform the consumers of the reason for its with
+drawal, and if necessary, recall from consumers products already supplied to them when other measures are not 
+sufficient to achieve a high level of health protection.
+2. A food business operator responsible for retail or distribution activities which do not affect the packaging, labelling, 
+safe
+ty or integrity of the food shall, within the limits of its respective activities, initiate procedures to withdraw from 
+the market products not in compliance with the food-safety requirements and shall participate in contributing to the 
+safety of the food by passing on relevant information necessary to trace a food, cooperating in the action taken by 
+pr
+oducers, processors, manufacturers and/or the competent authorities.
+3. A food business operator shall immediately inform the competent authorities if it considers or has reason to believe 
+that
+ a food which it has placed on the market may be injurious to human health. Operators shall inform the com
+pe
+tent authorities of the action taken to prevent risks to the final consumer and shall not prevent or discourage any 
+person from cooperating, in accordance with national law and legal practice, with the competent authorities, where 
+this may prevent, reduce or eliminate a risk arising from a food. […]’
+3.1. Activities of redistribution and charity organisations
+The nature of an organisation's activity as well as its operating model will determine the specific rules which apply 
+under
+ the EU regulatory framework for food safety and food information to consumers. In particular, whether an organ
+isation redistributes food to another organisation (i.e. ‘business to business’ ) or directly to an end beneficiary (‘ business 
+to
+ consumer’) as well as the type of activity which it carries out (e.g. donation of food of animal origin, preparation of 
+meals)
+ may lead to different requirements in terms of traceability, food hygiene and food information.
+(1) Articles 14(1) and 14(2) of the General Food Law.
+(2) Guidance on the implementation of Articles 11, 12, 14, 17, 18, 19 and 20 of Regulation (EC) No 178/2002 on General Food Law. 
+Conclusions
+ of the Standing Committee on the Food Chain and Animal Health. https://ec.europa.eu/food/sites/food/files/safety/docs/
+gfl_r
+eq_guidance_rev_8_en.pdf
+(3) Ar
+ticle 18 of the General Food Law.
+C 361/8 EN Official Journal of the European Union 25.10.2017
+
+[page 9] (text layer)
+It is therefore important to consider, on a case-by-case basis, the type of activity carried out by organisations engaging 
+in
+ food redistribution as applicable rules and related obligations may differ.
+As the activities of redistribution and charity organisations are essentially related to food distribution, they may be con
+sidered, 
+under the General Food Law, as food business operators engaging in ‘retail’ activity.
+— ‘retail’ (1) means the handling and/or processing of food and its storage at the point of sale or delivery to the final 
+consumer
+, and includes distribution terminals, catering operations, factory canteens, institutional catering, restau
+rants and other similar food service operations, shops, supermarket distribution centres and wholesale outlets.
+Under EU food hygiene rules, ROs and COs are considered essentially as ‘ retail’ or distribution centres, with activities 
+limit
+ed to storage and transport. The application of EU food hygiene rules, including specific measures related to food of 
+animal origin is further explained in section 5.
+Under EU food labelling rules, ROs and COs which prepare food that is ready for consumption by the final consumer 
+ma
+y be considered as ‘mass caterers’. The implications of this status for obligations related to food information to con
+sumer
+s are detailed in Chapter 6.
+— ‘mass caterer’ (2) means any establishment (including a vehicle or a fixed or mobile st all), such as restaurants, can
+teens, schools, hospitals and catering enterprises in which, in the course of a business, food is prepared to be ready 
+f
+or consumption by the final consumer.
+3.1.1. Sorting of surplus food for redistribution
+Foods shall not be placed on the market if they are unsafe. Some Member States and stakeholders have called for clarifi
+cation reg
+arding the redistribution of products which are made up of multiple units, some of which may not be fit for 
+human consumption. These may include for instance: a bag of oranges where one of the oranges is mouldy; multi-pack 
+yoghur
+ts where one may have a broken seal; or a box of eggs where one may be broken. EU food safety rules do not 
+prohibit a food business operat or from sorting such foods in view of their redistribution. In particular, Article 14(6) of 
+the
+ General Food Law provides the following:
+‘— Where any food which is unsafe is part of a batch, lot or consignment of food of the same class or description, it 
+shall
+ be presumed that all the food in that batch, lot or consignment is also unsafe, unless following a detailed 
+assessment 
+there is no evidence that the rest of the batch, lot or consignment is unsafe’.
+Therefore, such operations as opening up a net of oranges to separate spoiled fruit from that which is suitable for 
+human
+ consumption — be this carried out by the donor (e.g. retailer) or the receiver (e.g. RO/CO) — is possible as long 
+as, following a detailed assessment, it can be ensured that the food which is redistributed is safe to eat.
+In
+ carrying out such a detailed assessment, the food business operator may be guided by the considerations in determin
+ing 
+whether food is unfit for human consumption, as outlined in the Commission's guidance on the implementation of 
+the General Food Law (3). Such an assessment may take into account a range of factors such as: the type of product (e.g. 
+perishable/non-per
+ishable food); product composition (e.g. high/low moisture); type/level of processing; visual and 
+organoleptic considerations; integrity of packaging and individual units; product shelf-life; handling, storage and trans
+port conditions; instructions for use (if/where applicable), etc.
+3.2. Traceability
+Ensuring traceability of foodstuffs at all stages of production, processing and distribution is one of the key obligations 
+im
+posed on food business operators under the General Food Law in order to protect consumers from any risks associ
+ated with the food supply chain and ensure food safety. When a risk has been identified which requires removal of 
+a food from the market, traceability systems ensure that this process can be managed in a timely and effective manner.
+(1) Article 3(7) of the General Food Law.
+(2) Article 2.2(d) of Regulation (EU) No 1169/2011.
+(3) Guidance on the implementation of Articles 11, 12, 14, 17, 18, 19 and 20 of Regulation (EC) No 178/2002 on General Food Law.
+25.10.2017 EN Official Journal of the European Union C 361/9
+
+[page 10] (text layer)
+Food donors, who are themselves food business operators, are required to set up a traceability system whether these 
+foods are placed on the market for the purpose of sale or made available free of charge to redistribution and/or charity 
+organisations. As explained in section 2.2, private persons who provide food on an ad hoc basis at community or other 
+char
+ity events and charity organisations which occasionally receive food from private donors are excluded from obliga
+tions related to traceability.
+Receivers of surplus food, that is redistribution and charity organisations, as for all food business operators, must also 
+implement traceability measures needed to ensure safety of the food supply chain. Specific rules have also been laid 
+down at EU level for food of animal origin (1) as well as for sprouts and seeds intended for the production of sprouts (2) 
+in order to ensure the correct application of traceability requirements to these foodstuffs in the light of past experience 
+in
+ handling of food safety crises. Additional information on how to implement traceability requirements in practice is 
+also provided in a guidance document to support all players in fulfilling obligations related to the General Food Law (3).
+For instance, this guidance specifies that at least the following information should be kept in order to meet requirements 
+laid 
+down in Article 18:
+— name, address of supplier, and identification of products supplied;
+— name, address of customer, and identification of products delivered;
+— date and, where necessary, time of transaction/delivery;
+— volume, where appropriate, or quantity.
+With respect to the minimum time period for keeping records, the guidance specifies that a 5-year period from the date 
+of 
+manufacturing or delivery would be likely to meet the objectives of the Regulation.
+As food redistribution occurs at the end of the food value chain and foods are usually not stored for any significant 
+lengt
+h of time by ROs and COs, the Commission considers that an indicative time period for record-keeping of 2 to 
+5 years would be appropriate. Member States may further specify such time periods in national rules and/or guidance; 
+including,
+ for instance, the possible adaptation of time periods required for record-keeping depending on the nature of 
+the activity concerned (e.g. shorter time periods could be required for social restaurants).
+The European Commission clarified, in 2004, traceability obligations in the context of food redistribution (4). In general, 
+all operat
+ors of the food chain are required to record the suppliers of products they receive (one step back) and the 
+recipients of the products (one step forward). However, in the case of the distribution of food to the final consumer, it is 
+not necessary to record the recipients.
+Ensuring traceability ‘one step forward’ for redistribution activities may therefore be a new obligation for some food 
+business
+ operators, for instance from the retail and catering sectors, which normally only supply food to the final con
+sumer. When such food business operators redistribute food to ROs and COs, they will need to also ensure traceability 
+not only of the products they receive but also those which they deliver (i.e. ‘one step f orward’).
+The obligations of redistribution organisations and charity organisations are different in regard to traceability. Whereas 
+redistr
+ibution organisations must keep a record both of the suppliers of products (these are the suppliers of the prod
+ucts
+ they receive) as well as the organisations to which they redistribute food, charitable organisations which deliver 
+food to the final consumer only need to keep a record of the suppliers of the foods they receive.
+(1) Commission Implementing Regulation (EU) No 931/2011 of 19 September 2011 on the traceability requirements set by Regulation 
+(EC) N
+o 178/2002 of the European Parliament and of the Council for food of animal origin (OJ L 242, 20.9.2011, p. 2).
+(2) Commission
+ Implementing Regulation (EU) No 208/2013 of 11 March 2013 on traceability requirements for sprouts and seeds 
+intended
+ for the production of sprouts (OJ L 68, 12.3.2013, p. 16).
+(3) Guidance
+ on the implementation of Articles 11, 12, 14, 17, 18, 19 and 20 of Regulation (EC) No 178/2002 on General Food Law.
+(4) E-2704/04.
+C 361/10 EN Official Journal of the European Union 25.10.2017
+
+[page 11] (text layer)
+In the case of fishery and aquaculture products, general traceability rules must be complemented by the specific trace
+ability
+ rules set out in Article 58 of Council Regulation (EC) No 1224/2009 (1) establishing a Union control system for 
+ensur
+ing compliance with the rules of the common fisheries policy. In addition to the obligations set out by traceability 
+requirements under the General Food Law, this means that operators at all stages of production, processing and distribu
+tion (including redistribution organisations and charity organisations) shall be in possession of the specific information 
+required for tracing fishery and aquaculture products and that it shall be possible to trace those products back to the 
+catching or harvesting stage.
+Some Member St ates also provide additional guidance to help actors fulfil traceability obligations in relation to food 
+redistribution.
+4. DETERMINATION OF PRIMARY RESPONSIBILITY AND LIABILITY WHEN FOOD SAFETY 
+ISSUES ARISE
+4.1. Leg
+al context
+Primary responsibility and legal liability
+The primary responsibility of food business operators to ensure compliance with (both EU and national) food law (not 
+onl
+y food safety legislation but also other food legislation), set out in Article 17 of General Food Law, concerns the 
+activities
+ under their control and is applicable throughout the food supply chain. Member States are therefore prohibited 
+from maintaining or adopting legal provisions at national level which would exonerate any food business operator from 
+this obligation.
+The primary responsibility requirement does not have the effect of introducing a Union regime regulating the allocation 
+of liability betw
+een the different actors in the food supply chain. Determining the facts and circumstances which may 
+render an operator liable to criminal penalties and/or civil liability is a complex matter which depends very much on the 
+structur
+e of the different legal systems and falls, in principle, within national competence.
+Though the requirement laid down in Ar ticle 17(1) is directly applicable, the liability of food business operators should 
+in
+ practice result from the breach of a specific food law requirement, and from the rules for civil or criminal liability 
+whic
+h can be found in the national legal order of each Member State. The liability proceedings will not be based on 
+Article 17 but on a legal basis to be found in the specific infringed legislation at national level. Notwithstanding, where 
+a product is found to fail legal requirements, the liability of each actor in the food supply chain should be assessed on 
+t
+he basis of whether it has fulfilled its own responsibilities under the General Food Law.
+Producer's liability for defective food products (Council Directive 85/374/EEC (2))
+Article 21 of the General Food Law states that its provisions:
+‘— … shall be without prejudice to Council Directive 85/374/EEC of 25 July 1985 on the approximation of the laws, 
+r
+egulations and administrative provisions of the Member States concerning liability for defective products’.
+That Directive has established at EU level the principle that in case of damage caused by the defect of (any) product 
+(e
+xcept primary agricultural products), the producer shall be liable. The producer is defined as being the manufacturer, 
+but also as ‘any person who, by putting his name, trade mark or other distinguishing feature on the product, presents 
+himself
+ as its producer’.
+With respect to defective food products, Directive 85/374/EEC applies to the extent that its provisions do not contradict 
+General
+ Food Law, especially as regards the primary responsibility of food business operators to ensure compliance with 
+all requirements of food law established both at EU and national level for the operation under their control. As stated 
+above, where a product is found to be defective, the assessment of liability should take into account whether the pro
+ducer
+ has properly fulfilled its own specific responsibilities under the General Food Law.
+(1) Council Regulation (EC) No 1224/2009 of 20 November 2009 establishing a Community control system for ensuring compliance 
+with
+ the rules of the common fisheries policy, amending Regulations (EC) No 847/96, (EC) No 2371/2002, (EC) No 811/2004, 
+(EC) No 768/2005, (EC) No 2115/2005, (EC) No 2166/2005, (EC) No 388/2006, (EC) No 509/2007, (EC) No 676/2007, (EC) 
+No 1098/2007, (EC) No 1300/2008, (EC) No 1342/2008 and repealing Regulations (EEC) No 2847/93, (EC) No 1627/94 and (EC) 
+No 1966/2006 (OJ L 343, 22.12.2009, p. 1).
+(2) Council
+ Directive 85/374/EEC of 25 July 1985 on the approximation of the laws, regulations and administrative provisions of the 
+Member 
+States concerning liability for defective products (OJ L 210, 7.8.1985, p. 29).
+25.10.2017 EN Official Journal of the European Union C 361/11
+
+[page 12] (text layer)
+How are responsibility and liability determined when food safety issues arise?
+In the event of a food safety concern (for instance food poisoning), public health authorities will investigate the whole 
+f
+ood supply chain in order to identify the origin and cause of the problem. It may happen that the food safety problem 
+has been found by a food business, which shall take action to withdraw, recall or notify unsafe food (see also Section 3).
+Determining the liability of (a) given food business operator(s) requires identification of the cause of the problem and 
+t
+he operation/activity, in the course of which the incident occurred on a case-by-case basis, e.g.:
+— did the food poisoning result from insufficient pasteurisation (role of food manufacturer);
+— was the cold chain broken during transport of food from supplier to retailer (role of logistics provider);
+— was the food not stored properly at retail before donation (role of retailer);
+— was the food distributed by a charity organisation after the ‘use by’ date (role of charity organisation), etc.
+Once again, it should be noted that determining the facts and circumstances which may render an operator liable to 
+cr
+iminal penalties and/or civil liability is a matter which depends very much on the structure of the different national 
+leg
+al systems. Further information concerning the meaning and impact of Article 17.1 of the General Food Law in 
+relation
+ to the allocation of responsibilities in the agro-food chain can be found in the guidance on the implementation 
+of General Food Law (1).
+4.2. Im
+plications for redistribution of surplus food
+Concerns regarding potential liability may be a barrier which restricts food manufacturers and retailers from engaging in 
+food
+ redistribution activities. In addition to legal concerns, food business operators may also have concerns regarding 
+potential damage to corporate/brand reputation in the event of a food safety incident linked to food r edistribution.
+It should be underlined that the primary responsibility requirement applies to all food business operators regardless of 
+whether food products are sold or donated. Article 17 of Regulation (EC) No 178/2002 continues to apply in the same 
+way
+. The only difference is that one more step is added in the distribution chain (that is the redistribution organisation 
+and/or charity) which, as for other food business operators, will be responsible for the operation under its respective 
+area of control.
+Whilst the concept of ‘primary responsibility’ laid down in General Food Law always applies to each of the actors 
+in
+volved in food redistribution for the activities under their control, the determination of ‘who should be deemed liable 
+f
+or what’, in the event of a food safety incident for instance, is a matter of national compe tence. In some Member 
+States (2), formal partnership agreements are established which document the transfer of ownership of goods concerned 
+be
+tween donors and receivers as well as the respective role and responsibilities of these actors in ensuring safety, trace
+ability and consumer information throughout the food redistribution chain.
+5. HYGIENE REGULATIONS AND REDISTRIBUTION OF SURPLUS FOOD
+All consumers must be equally protected by the same food safety standards, whether food is marketed directly to con
+sumers or redistributed to those in need by redistribution organisations and other charitable organisations. In order to 
+ensure this principle, the redistribution of food surplus, including delivery and handling of foods as well as the possible 
+further processing and preparation of food (for instance in social restaurants) must comply with EU rules related to food 
+hygiene which are applicable to all food business operators. Food hygiene standards which must be complied with for 
+commercial activities also apply to the activities of redistribution and charity organisations.
+(1) Guidance on the implementation of Articles 11, 12, 14, 17, 18, 19 and 20 of Regulation (EC) No 178/2002 on General Food Law.
+(2) e.g. France — Mutual agreement model for food donation between a retail company and a food aid association authorised in applica
+tion 
+of article L. 230-6 of the rural and maritime fisheries code (Convention de dons de denrées alimentaires entre un commerce de 
+détail alimentaire et une association d'aide alimentaire habilitée en application de l'article L. 230-6 du code rural et de la pêche mar
+itime) 
+(see: http://agriculture.gouv.fr/don-alimentaire-un-modele-de-convention-entre-distributeurs-et-associations).
+C 361/12 EN Official Journal of the European Union 25.10.2017
+
+[page 13] (text layer)
+In order to protect consumers and ensure food safety, only food which meets requirements laid down in EU food 
+h
+ygiene rules and is fit for human consumption may be placed on the market, including that which is donated to nonprofit organisations for distribution to those in need. As food business operators, redistribution organisations and chari
+ties must comply with the General Food Law and with EU rules related to food hygiene (the so-called ‘hygiene pack
+ag
+e’ (1) composed of Regulation (EC) N o 852/2004 as rectified (OJ L 226, 25.6.2004, p. 3) containing general hygiene 
+r
+equirements and, when applicable, Regulation (EC) No 853/2004 of the European Parliament and of the Council (2) 
+containing additional specific hygiene requirements for food of animal origin).
+5.1. General hygiene requirements applicable to all food donation activities
+The very objective of food hygiene rules – preventing contamination of foodstuffs (and therefore avoiding spoilage due 
+t
+o bacterial growth) in order to protect human health – also contributes to the reduction of food waste. EU food 
+hygiene rules are very general and offer a large degree of flexibility to meet the specific needs of different types of 
+es
+tablishments (e.g. restaurants). This flexibility is explained in the Commission Notice on the implementation of food 
+safety management systems covering prerequisite programs (PRPs) and procedures based on the HACCP principles, 
+including the facilitation/flexibility of the implementation in certain food businesses (3).
+Regulation (EC) No 852/2004 on the hygiene of foodstuffs applies to all food establishments.
+The most relevant requirements related to food redistribution are:
+— registration of the establishment to competent authorities (which can be a simple notification procedure to the 
+national
+ competent authority on its activities or significant change of activities);
+— application of good hygiene practices laid down in Annex II to that Regulation;
+— implementation of procedures based on HACCP principles.
+Regulation (EC) No 852/2004 does not lay down very detailed rules but general requirements (for instance to avoid 
+contamination of food) which must be respected by all actors.
+These food hygiene rules, which provide great flexibility in how they are implemented, are the only ones applicable to:
+— retailers which only store or transport any food which is not subject to temperature conditions such as chilling or 
+freezing (examples of such foods are pasta, canned food, sugar, flour, etc.);
+— retailers which supply food directly to the final consumer (including caterers according to definition in Article 3(7) 
+of the General Food Law);
+— actors involved in the processing of food of non-animal origin only (e.g. fruit, vegetables, nuts) for further 
+redistr
+ibution.
+5.2. Specific hygiene requirements applicable to redistribution of food of animal origin
+Additional specific food hygiene rules, provided for in Regulation (EC) No 853/2004, are to be applied when retailers 
+and
+ redistribution organisations deliver food of animal origin to other establishments. Foods of animal origin include 
+meat, fishery and aquaculture products, dairy products (e.g. cheeses), eggs and egg products, etc. In principle, retailers 
+who wish to deliver food of animal origin to redistribution organisations or charities need to comply with all provisions 
+of Regulation (EC) No 853/2004 with related additional administrative requirements and burden including their 
+appr
+oval by national authorities before the activity starts.
+(1) http://ec.europa.eu/food/food/biosafety/hygienelegislation/com_.rules_en.htm
+(2) Regulation (EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for 
+food
+ of animal origin (OJ L 139, 30.4.2004, p. 55).
+(3) OJ
+ C 278, 30.7.2016, p. 1.
+25.10.2017 EN Official Journal of the European Union C 361/13
+
+[page 14] (text layer)
+Derogation from Regulation (EC) No 853/2004 applies if, at retail level, the supply of food of animal origin:
+— is marginal, restricted and local, or
+— is limited to transport and storage (however temperature conditions laid down in Regulation (EC) N o 853/2004 do 
+apply
+ in this case).
+Exemptions are also applicable to so-called composite products (1) , i.e. foods that contain both processed products of 
+animal
+ origin and products of non-animal origin. They include a large variety of very different products (e.g. pizzas with 
+ham,
+ olives stuffed with cheese, bread or cakes with butter, pasta with egg products, etc.). They are excluded from the 
+application of additional food hygiene rules applying to the redistribution of food of animal origin. However, processed 
+products of animal origin used as ingredients to prepare such food shall be obtained and handled in accordance with 
+the requirements of Regulation (EC) No 853/2004.
+Additional national rules may apply regarding the supply by retailers of food of animal origin granted such derogations.
+It may happen that an operator which usually only supplies food to final consumers – such as for instance a butcher's 
+shop
+ or a supermarket (for which Regulation (EC) No 853/2004 is not applicable) – has to comply with all the provi
+sions
+ in that Regulation when donating certain foods (of animal origin) to another establishment, be that a redistribu
+tion
+ organisation or a social restaurant. It is the business-to-business nature of the operation which triggers the need for 
+the
+ retailer to comply with all provisions of Regulation (EC) No 853/2004.
+In order to address this issue, Member States are allowed to derogate from the rules in Regulation (EC) No 853/2004 if 
+these
+ donations are a ‘marginal, localised and restricted’ activity. These notions are further explained in section 3.6 of 
+the
+ ‘Guidance document on the implementation of certain provisions of Regulation (EC) N o 853/2004 on the hygiene 
+of
+ food of animal origin’. Briefly, ‘marginal’ must be understood to be a small part of the activities, ‘ restricted’ refers to 
+limit
+ation of the activity to certain products and ‘localised’ to the immediate vicinity of the supplier. Member States 
+should
+ further define these notions in national measures subject to notification (2) to the Commission and to other 
+Member
+ States.
+A decision tree is provided in Annex 2 in order to facilitate food donors and receivers to assess the need for compliance 
+with
+ Regulation (EC) No 853/2004.
+5.3. Hygiene requirements applicable to redistribution of surplus food from the hospitality, catering and 
+f
+ood service sectors
+While the redistribution of surplus food from the hospitality and catering sectors is more limited for hygiene reasons, it 
+is possible for
+ food business operators to identify and assess possible opportunities to do so on a case-by-case basis. 
+Capacity 
+to ensure safe redistribution of surplus will vary depending on factors such as: the type of food/meal produced; 
+the nature of the establishment; availability of receiver organisations; access to a logistics provider which can ensure safe 
+transpor
+t of available surplus, etc.
+In order to prevent food waste, it is important that catering operators prevent as much as possible the production of 
+e
+xcess food and monitor carefully the quantities of food made available, for instance in a buffet, at any given moment. 
+While
+ rules may differ in the Member States, some national authorities will authorise the redistribution of certain foods 
+made available to customers, for example, shelf-stable, pre-packed foods (e.g. condiments, crackers, biscuits, etc.) pro
+vided that the products are not open and packaging is not damaged.
+Regulation (EC) No 852/2004 on the hygiene of foodstuffs does not prohibit, as such, the cooling of meals at the end 
+of
+ service in order to facilitate food donation from the food service/hospitality sector.
+(1) Article 2(a) of Commission Decision 2007/275/EC of 17 April 2007 concerning lists of animals and products to be subject to con
+trols
+ at border inspection posts under Council Directives 91/496/EEC and 97/78/EC (OJ L 116, 4.5.2007, p. 9).
+(2) N
+otification procedure under Directive (EU) 2015/1535 of the European Parliament and of the Council of 9 September 2015 laying 
+down
+ a procedure for the provision of information in the field of technical regulations and of rules on Information Society services 
+(OJ L 241, 17.9.2015, p. 1).
+C 361/14 EN Official Journal of the European Union 25.10.2017
+
+[page 15] (text layer)
+In order to facilitate safe redistribution of surplus food, some Member States and sectorial organisations have established 
+or 
+are currently developing specific guidelines related to food donation from the catering/hospitality sector (1).
+5.4. Freezing of surplus food to facilitate redistribution
+In recent discussions with Member States regarding guidance needed at EU level to facilitate food donation, experts have 
+indicated
+ that the practice of freezing foods before their expiration date in order to extend shelf-life and facilitate safe 
+redistribution would merit further consideration at EU level as food received by redistribution organisations and chari
+ties cannot always be donated to the customer by the ‘use by’ date. However, for hygienic reasons, Regulation (EC) 
+N
+o 853/2004 prescribes that food of animal origin intended for freezing must be frozen without undue delay after 
+production (2). This requirement does not apply to retailers supplying other food business operators such as food banks 
+pr
+ovided that such retailers' activity stays marginal, localised and restricted in accordance with its Article 1(5)(b)(ii). 
+Member States granting the possibility of freezing food of animal origin for redistribution purposes should adopt 
+national
+ measures accordingly and notify them to the Commission and the other Member States.
+6. FOOD INFORMATION TO CONSUMERS
+6.1. Legal context
+Regulation (EU) No 1169/2011 of the European Parliament and of the Council (3) on the provision of food information 
+to
+ consumers establishes the general principles, requirements and responsibilities governing food information and in 
+particular food labelling. It aims to ensure a high level of protection of consumers' health and interests by providing 
+a
+ basis for consumers to make informed choices and safe use of food. In the context of the redistribution of surplus 
+f
+ood, it is critical to ensure that the end beneficiaries have access to the same information as that which is required and 
+provided when they purchase food in-store.
+The list of mandatory particulars which must be included in food labelling is specified under Article 9(1) of the Regula
+tion including inter
+ alia: the name of the food, the list of ingredients, the date of minimum durability (i.e. ‘best before’) 
+or
+ when appropriate the ‘use by’ date; any special storage conditions and/or conditions of use; and a nutrition declara
+tion.
+ Other mandatory information may also be required in labelling provisions of other EU legislation including secto
+rial legislation (e.g. Regulation (EC) No 853/2004 laying down specific hygiene rules for food of animal origin, Com
+mon
+ Market Organisation rules such as Regulation (EU) No 1379/2013 of the European Parliament and of the 
+Council (4) on the common organisation of the markets in fishery and agricultural products, marketing standards) or in 
+national
+ legislation.
+Responsibilities of food business operators
+Article 8 of Regulation (EU) No 1169/2011 lays down the responsibilities of food business operators in the provision of 
+food
+ information to consumers. It states amongst others that:
+— the food business operator responsible for the food information is the operator under whose name or business name 
+the
+ food is marketed or the importer;
+— the food business operator must ensure the presence and accuracy of the food information in accordance with EU 
+r
+ules and any relevant measures laid down in national legislation;
+— food business operat ors which do not affect food information must not supply food which they know or presume, 
+on the basis of the information in their possession as professionals, to be non-compliant with applicable food infor
+mation rules;
+(1) See ‘Guidelines for food donation’ at: http://ec.europa.eu/food/safety/food_waste/library_en
+(2) Meat intended for freezing must be frozen without undue delay after production (Regulation (EC) No 853/2004). This excludes the 
+possibility 
+of freezing such products at the end of their shelf-life for reason of hygiene and quality.
+(3) R
+egulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food informa
+tion 
+to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Coun
+cil, 
+and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, 
+Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Com
+mission 
+Regulation (EC) No 608/2004 (OJ L 304, 22.11.2011, p. 18).
+(4) R
+egulation (EU) No 1379/2013 of the European Parliament and of the Council of 11 December 2013 on the common organisation 
+of 
+the markets in fishery and aquaculture products, amending Council Regulations (EC) No 1184/2006 and (EC) No 1224/2009 and 
+repealing 
+Council Regulation (EC) No 104/2000 (OJ L 354, 28.12.2013, p. 1).
+25.10.2017 EN Official Journal of the European Union C 361/15
+
+[page 16] (text layer)
+— food business operat ors, within the businesses under their control, must not modify the information accompanying 
+a food if such modification would mislead the consumer or otherwise reduce the level of consumer protection and 
+t
+he possibilities for the final consumer to make informed choices. Food business operators are responsible for any 
+changes they make to information accompanying food;
+— food business operat ors, within the business under their control, must ensure compliance with the requirements of 
+food information law and relevant national provisions which are relevant to their activities and must verify that such 
+requirements are met.
+How is mandatory information to be provided?
+In the case of pre-packed food, Ar ticle 12(2) specifies that mandatory food information must appear directly on the 
+pac
+kage or on a label attached therein. In certain instances, such information may also be presented in commercial 
+documents
+ related to the food, where it can be guaranteed that such documents either accompany the food to which 
+they refer or were sent before or at the same time of delivery. Article 8(7) specifies that the provision of information by 
+means 
+of commercial documents is possible in instances where: pre-packed food is intended for the final consumer but 
+marketed at a stage prior to sale to the final consumer or where it is intended for supply to mass caterers (for further 
+prepar
+ation, processing, splitting or cutting up).
+In addition to food information conveyed in commercial documents, the indication of the following particulars must 
+also be included on the external packaging in which pre-packed foods are presented for marketing, i.e. the name of the 
+f
+ood, the date of minimum durability of the ‘use by’ date, any special storage conditions and/or conditions of use, and 
+t
+he name or business name and address of the food business operator responsible for provision of food information (as 
+specified under Article 8(1)).
+In the case of non-prepacked food, Article 44 provides further clarification as to which information must be provided as 
+well
+ as the means by which this should be done. It states that where foods are offered for sale to the final consumer or 
+to mass caterers without pre-packaging, or where foods are packed on the sales premises at the consumer's request or 
+pre-packed for direct sale, the provision of the particulars specified in Article 9(1)(c) is mandatory. This means that the 
+consumer
+ must be informed of the presence in the food of any ingredient or processing aid listed in Annex II to the 
+R
+egulation, or derived from a substance or product listed in Annex II causing allergies or intolerances used in the manu
+factur
+e or preparation of a food and still present in the finished product, even if in an altered form.
+Article 44 also states that Member States may adopt national measures concerning the means by which the information 
+on allerg
+ens (and any other mandatory particulars laid down in EU rules that are required by national legislation for 
+non-prepacked food) are to be made available and, where appropriate, their form of expression and presentation. For 
+instance, some Member States have adopted specific legislation which allows the hanging of signs in shops explaining 
+that staff may be contacted for further information on allergens.
+In the specific case of fishery and aquaculture products, mandatory information on non-prepacked food may be pro
+vided
+ for retail sale by means of commercial information such as billboards or posters.
+Business-to-business v business-to-consumer
+Food business operat ors which supply food to other food business operators not intended for the final consumer or to 
+mass caterers, shall ensure that those other food business operators are provided with sufficient information to allow 
+them to fulfil their obligations regarding the presence and accuracy of food information (as specified under Article 8.2), 
+for instance by including such information in commercial documents, if not present on the food itself.
+In the case of the specific consumer information to be provided on fishery and aquaculture products, its transmission is 
+ensured
+ through sector-specific traceability rules, where applicable. For processed and prepared fishery and aquaculture 
+products (falling under codes 1604 and 1605 of the Combined Nomenclature (1)), the general rule under Ar ticle 8.2 of 
+Regulation
+ (EU) No 1169/2011 applies.
+(1) The Combined Nomenclature (https://ec.europa.eu/taxation_customs/business/calculation-customs-duties/what-is-common-customstar
+iff/combined-nomenclature_en).
+C 361/16 EN Official Journal of the European Union 25.10.2017
+
+[page 17] (text layer)
+6.2. Implications for redistribution of surplus food
+6.2.1. Information requirements for pre-packed foods
+Whether food is purchased by consumers or made available free of charge to end beneficiaries by means of food aid or 
+ot
+her food redistribution mechanisms, food information must be present and provided to the end beneficiary in accor
+dance with EU and relevant national rules related to the provision of food information to consumers. When donated 
+food carries labelling in line with all legal requirements, obligations concerning provision of food information may be 
+easily fulfilled. However, when food surplus is generated, for instance at manufacturing level, due to mislabelling of 
+products and/or labelling errors prohibiting the food product's access to the usual retail channels, additional clarification 
+and/or measures will need to be taken in order to ensure that the end beneficiary receives all the mandatory information 
+required.
+In regard to pre-packed foods made available to the final consumer, EU rules require that all mandatory particulars be 
+pr
+ovided on the package or a label attached thereto. In instances where food with deficient labelling cannot be relabelled 
+prior
+ to its redistribution, the food business operator responsible for food information (cf. Article 8(1)) must provide all 
+necessary
+ information to the redistribution organisation and/or charity organisation in order to ensure that the latter 
+can fulfil their obligations concerning provision of food information to the end beneficiary. Some Member States have 
+provided guidance in order to ensure that safe, edible food which would otherwise be wasted may be redistributed 
+whilst ensuring that the end beneficiary has access to all information which is required (cf. Article 9(1)), even if such 
+inf
+ormation is not directly provided on the label. However, in cases where the labelling error may have implications for 
+public health (for instance, relating to information on the presence of allergens), Member States may then require that 
+the error is corrected on the labelling of the product concerned before it can be donated.
+6.2.2. Language requirements
+Regulation (EU) No 1169/2011 requires that mandatory food information must appear in a language easily understood 
+by the consumers of the Member States where a food is marketed (1) . In addition, the Member States where the product 
+is 
+marketed may require the use of a specific language (2).
+In
+ practice this would be the official(s) language(s) of the country where the food is placed on the market. However, the 
+pro
+vision of mandatory information in a foreign language that is easily understood by the consumer is possible. There 
+are many examples where terms or expressions can be easily understood by the consumer, although they are not in 
+her/his language. In such cases, requiring changes to labelling would appear disproportionate.
+As the labelling of food products in a foreign language may create an obstacle to the further redistribution of food, 
+some Member States have developed guidance in this regard.
+6.2.3. Information requirements for non-prepacked foods
+It is important that consumers receive the necessary information about food which they consume also when these are 
+no
+t pre-packed and when food is processed, prepared and cooked for further consumption by a catering service or 
+(social)
+ restaurant. As outlined in section 6.1, in such instances, food information required is limited to that relating to 
+t
+he presence of allergens and any other additional information required by national rules.
+Article 44 of Regulation (EU) N o 1169/2011 also stat es that Member States may adopt national measures concerning 
+the means through which the information on allergens (and possible other mandatory information) are to be made 
+available and, where appropriate, their form of expression and presentation.
+Consequently, Member States have the full capacity to provide all the necessary rules ensuring that information on aller
+gens
+ in food is made available to redistribution and charity organisations and ultimately to consumers in a convenient 
+and
+ efficient way. Most Member States have already adopted such measures.
+(1) Article 15 thereof. This requirement is not new; it was first laid down in Article 14 of Council Directive 79/112/EEC of 18 December 
+1978 on the approximation of the laws of the Member States relating to the labelling, presentation and advertising of foodstuffs for 
+sale 
+to the ultimate consumer (OJ L 33, 8.2.1979, p. 1)
+(2) Ar
+ticle 15(2) of Regulation (EU) No 1169/2011.
+25.10.2017 EN Official Journal of the European Union C 361/17
+
+[page 18] (text layer)
+6.3. Date marking
+6.3.1. Legal context
+The aim of date marking in food labelling is to help consumers make safe and optimum use of foods. The date mark is 
+an 
+indication that states the length of time a food can be stored under specified storage conditions. The key piece of EU 
+legislation
+ for date marking is Regulation (EU) No 1169/2011 on the provision of food information to consumers.
+There are two types of date marking:
+— the ‘best before’ date, which is suitable for most foods and indicates the date until which the food can be reasonably 
+expect
+ed to maintain its optimal condition if properly stored. It relates to food quality. There are some foods which 
+are exempted from the requirement of the ‘best before’ date, for example fresh fruit, vegetables, wines, salt, sugar, 
+vineg
+ar, chewing gums;
+— the ‘use by’ date, which is required for foods which from a microbiological point of view are highly perishable, and 
+are therefore likely, after a short period of time, to constitute an immediate danger to human health. The ‘use by’ 
+dat
+e relates to safety; after the expiry of the ‘ use by’ date, a food cannot be placed on the market as it is deemed to 
+be
+ unsafe.
+The format to be utilised in expressing the above-mentioned date marks is regulated in Anne x X to Regulation (EU) 
+N
+o 1169/2011.
+In cooperation with the EU Member States, the European Commission produced a leaflet (1) which provides further 
+inf
+ormation on the meaning of these two dates as well as the translation of the terms in each of the national languages. 
+The Commission has also published an infographic to help clarify the meaning of these concepts as well as recent 
+findings regarding consumer understanding of these terms (2). Member State and stakeholder organisations also pursue 
+inf
+ormation campaigns and develop tools in relation to date marking in order to provide guidance to food business 
+operators and advice to consumers in their handling of foods (3).
+6.3.2. Im
+plications for redistribution of surplus food
+The establishment of both ‘ use by’ and ‘best before’ dates is under the responsibility of food manufacturers. With the 
+e
+xception of table eggs, EU legislation does not prescribe how date marking should be established (i.e. either the choice 
+of ‘use by’ or ‘best before’ or the length of shelf-life). Whereas eating a food past the ‘ use by’ date can pose safety con
+cer
+ns, foods past the ‘best before’ date are still safe to be consumed, on the condition that storage conditions are 
+r
+espected and packaging is not damaged. With respect to ‘best before’ dates, manufacturers guarantee the quality of 
+f
+oods (e.g. crispiness, colour, taste …) and compliance with any claims made in labelling (e.g. nutritional claims regard
+ing the level of vitamin C in a foodstuff) only until the end of the ‘best before’ date.
+In regard to the donation of foods labelled with a ‘use by’ date, food donors should ensure that there is sufficient shelflif
+e available upon the delivery of such products to food banks and other charity organisations in order to allow for 
+their safe distribution and use by the final consumer prior to the indicated ‘use by’ date. Some Member States have laid 
+do
+wn specific rules regarding the minimum amount of shelf-life which should be available when food products are 
+provided for donation (4).
+The
+ marketing of foods beyond their date of minimum durability (i.e. ‘best before’ ) is allowed under EU rules, provided 
+t
+hat the foods concerned are still safe and their presentation is not misleading. It is permitted, at each stage in the food 
+supply chain, to place food on the market which has passed the date of minimum durability. It is the food business 
+operator's responsibility (e.g. the retailer) to ensure that the food is still safe for human consumption and that con
+sumers are duly informed that the product concerned is past the ‘best before’ date (for instance, such products may be 
+mar
+keted separately with signs indicating that the minimum durability date is exceeded).
+(1) https://ec.europa.eu/food/sites/food/files/safety/docs/fw_lib_best_before_en.pdf
+(2) http://ec.europa.eu/food/safety/docs/fw_eu_actions_date_marking_infographic_en.pdf
+(3) Denmark:
+‘decision tree’ regarding date marking http://ec.europa.eu/food/sites/food/files/safety/docs/fw_lib_da_mind-the-date_decision-tree.pdf
+(4) F or instance, in France, the model agreement laying down arrangements for food donation between industry and charity organisations 
+(defined
+ under Law no 2016-138 of 11 February 2016), requires that food manufacturers and retailers provide foods labelled with 
+a ‘use by’ date which have at least 48 hours available shelf-life upon their delivery to food banks and other charities.
+C 361/18 EN Official Journal of the European Union 25.10.2017
+
+[page 19] (text layer)
+Certain Member St ates restrict or even prohibit marketing of foods past the ‘best before’ date leading to avoidable food 
+wast
+e (1). Such practices, which restrict recovery and redistribution of food, may be due to lack of clarity as to how long 
+af
+ter the ‘best before’ date a given food product may be made available to consumers and the need to respect the role of 
+food
+ business operators who bear responsibility for establishing date marking. Some food business operators may also 
+have their own internal standards as to how long past the ‘best before’ date a product may be redistributed for human 
+consum
+ption, taking into account for instance its quality specifications.
+In order to facilitate redistribution of food past the ‘ best before’ date, some national authorities in Member States have 
+pr
+ovided additional guidance to actors on foodstuffs which can be utilised/distributed by food banks and other charities 
+past the ‘best before’ date as well as indicative time frames for each food category concerned (2). Public authorities 
+em
+phasise however that such guidelines are only indicative and the possible distribution of foods past a ‘best before’ 
+dat
+e must be assessed on a case-by-case basis. If ther e is reason to believe that a food could no longer be fit for con
+sumption, then it should not be distributed further. Proper storage conditions and integrity of packaging must always be 
+guaranteed.
+6.3.3. Eggs: date marking rules and redistribution practices
+According to EU marketing rules, eggs marketed as class ‘ A’ (i.e. table eggs) must be labelled with a ‘best before’ date 
+whic
+h is set at 28 days from laying (3). EU food hygiene rules (4) further specify that eggs must be delivered to the 
+consumer
+ within a maximum time limit of 21 days of laying. This therefore means that while eggs can no longer be 
+sold
+ in retail after 21 days, consumers who purchase eggs by this date will have an additional week in which they can 
+be sure about the quality and freshness of eggs purchased.
+In order to prevent food waste, retailers may sell eggs beyond the 21-day limit to the egg processing industry (5) for the 
+production
+ of egg products and/or process eggs (with sufficient heat treatment) to enable their further utilisation. With 
+the same rationale, beyond the 21-day limit, eggs may also be made available for food redistribution, provided that the 
+receiving food business operator (e.g. charity organisation) processes the eggs (with sufficient heat treatment to ensure 
+their safety) before making these available to consumers.
+7. FISCAL RULES
+Value added tax can have implications for the transfer of food surplus from donors to food banks and other charity 
+organisations.
+Other fiscal instruments (such as tax deductions and corporate tax breaks) can provide economic incentives for food 
+donation
+ and thereby support the redistribution of surplus edible food and prevention of food waste.
+7.1. Value added tax (VAT)
+Value added tax (VAT) is governed at EU level by the VAT Directive (6) which must be implemented into national law. 
+V
+AT legislation as applied in the EU Member States can sometimes have implications for food donation, as it is per
+ceived as an obstacle to the transfer of food surplus between donors, food banks and other charitable organisations (1). 
+In adapting
+ the rules applicable to goods handed out for free (under Articles 16 and 74 of the VAT Directive), Member 
+S
+tates can facilitate the donation of food surplus for charitable purposes.
+(1) Comparative study on EU Member States' legislation and practices on food donations, European and Economic Social 
+Committee, 2014.
+(2) See for instance: Belgian food safety agency Circulaire relative aux dispositions applicables aux banques alimentaires et associations 
+carit
+atives, 8 February 2017; Italy — Manual of Good Practices for Charitable Organisations, Caritas Italiana, Fondazione Banco Ali
+mentar
+e Onlus, March 2016.
+(3) Ar
+ticle 2 of Commission Regulation (EC) No 589/2008 of 23 June 2008 laying down detailed rules for implementing Council Regula
+tion 
+(EC) No 1234/2007 as regards marketing standards for eggs (OJ L 163, 24.6.2008, p. 6).
+(4) R
+egulation (EC) No 853/2004 (Annex III, Section X, Chapter I.3).
+(5) In
+ accordance with EU food hygiene rules related to food of animal origin, retailers may supply eggs to another establishment if they 
+compl
+y with all provisions of Regulation (EC) No 853/2004 (including their approval by national authorities) or if the supply is con
+sider
+ed as ‘marginal, restricted and local’ and regulated through national measures notified to the European Commission. For further 
+infor
+mation, see Section 5.2.
+(6) Council
+ Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (OJ L 347, 11.12.2006, p. 1).
+25.10.2017 EN Official Journal of the European Union C 361/19
+
+[page 20] (text layer)
+The EU VAT Committee agreed on 7 December 2012 on guidelines (1) to ensure the uniform application of the VAT 
+Dir
+ective across EU Member States. The guidelines specifically give guidance on the application of Articles 16 and 74 in 
+relation
+ to food donation:
+‘The VAT Committee unanimously agrees that the donation of foodstuffs to the poor, made by a taxable person free of 
+c
+harge, shall be treated as a supply of goods for consideration, in accordance with the first paragraph of Article 16 of 
+the
+ VAT Directive, unless this donation meets the conditions laid down by the Member State to be considered as a gift 
+of 
+small value within the meaning of the second paragraph of Article 16 of the VAT Directive.
+The VAT Committee also agrees unanimously that, in cases where such a donation must be treated as a supply of goods 
+for
+ consideration, the taxable amount shall be the purchase price of the goods (or of similar goods or, in the absence of 
+a purchase price, the cost price of the goods) donated, adjusted to the state of those goods at the time when the dona
+tion
+ takes place, as provided for in Article 74 of the VAT Directive’.
+Applications of VAT rules to food redistribution in the EU Member States
+In certain Member States, little or no VAT is paid when food is donated to food banks as the national authorities con
+sider
+, according to Article 74 of the VAT Directive as implemented into national law, that the value of the donated food 
+close 
+to its ‘best before/use by’ date is small or zero. Conversely, other EU Member States consider the price of a product 
+ready 
+to be donated to be at the same level as its purchase price through usual commercial transactions. Thus, the VAT 
+is also calculated based on the commercial price with negative consequences for food donation (2).
+Findings from the comparative study of the European Economic and Social Committee (EESC) on food donation legisla
+tion and practices
+ indicate that most of the Member States considered (3) do not impose VAT when food is donated to 
+f
+ood banks, provided that certain conditions are fulfilled. According to the EESC study as well as further input provided 
+to the Commission by Member State experts, Belgium, Croatia, Denmark, Italy, Germany, Greece, the Netherlands, 
+Poland and Portugal have introduced specific provisions in their own national tax legislation to address the issue of VAT 
+in relation to food donation. In the UK, most food items are zero-rated but there are exceptions which are standard 
+rated (i.e. 20 % VAT) such as confectionery, chocolate biscuits, crisps, etc. In practice, most foods donated to charities in 
+the
+ UK will be zero-rated which means that a company can donate them without having to account for tax. Spain and 
+Sweden have no particular provisions on VAT in relation to food donation.
+Further clarification of EU legislation
+In answer to a question from the European Parliament (4), the Commission has expressed its view that tax barriers 
+should
+ not prevent the donation of food to food banks and other charitable organisations. The Commission, in line 
+with the guidelines agreed by the EU VAT Committee, recommends that, in the determination of VAT for the donation 
+of foods, the value of those goods should be adjusted according to the circumstances and the state of the goods at the 
+time of donation. When food donations are made close to either the ‘best before’ or the ‘ use by’ date or the goods are 
+no
+t fit for sale but can be safely consumed, these circumstances should be taken into account by Member States when 
+determining the VAT due, which could even be zero in cases where the food genuinely has no value (5).
+7.2. Fiscal incentives
+Some Member States seek to stimulate food donation by offering tax deductions. Other Member States provide tax cred
+its 
+in support of redistribution schemes.
+(1) Agreed VAT Committee guidelines are published at:
+http://ec.europa.eu/taxation_customs/sites/taxation/files/resources/documents/taxation/vat/key_documents/vat_committee/guidelinesvat-committ
+ee-meetings_en.pdf
+(2) ‘Review of EU legislation and policies with implications on food waste’, EU FUSIONS, 15 June 2015
+https://www.eu-fusions.org/index.php/about-food-waste/283-food-waste-policy-framework
+(3) Belgium,
+ Denmark, France, Germany, Greece, Hungary, Italy, Poland, Portugal, Spain, Sweden and UK. ‘Comparative study on EU 
+Member 
+States’ legislation and practices on food donations', European and Economic Social Committee, 2014.
+(4) E-009571/2014 
+(http://www.europarl.europa.eu/sides/g etAllAnswers.do?reference=E-2014-009571&language=EN).
+(5) This recommendation follows on from Commission discussions with Member States regarding determination of VAT for foods 
+donated
+ to those in need.
+C 361/20 EN Official Journal of the European Union 25.10.2017
+
+[page 21] (text layer)
+Corporate tax incentives in place in a few Member St ates (e.g. France, Spain and Portugal) have demonstrated their 
+effectiveness in encouraging donation of food surplus by industry. In France 60 % (1) and in Spain 35 % of the net book 
+value
+ of donated food can be claimed as a corporate tax credit, meaning that food donors are able to deduct that per
+cent
+age of the value of the donated food from the corporate tax on their revenue. The comparative study carried out by 
+the EESC also shows that in most of the other examined Member States, food donation can be treated as a deductible 
+tax
+ expense and can reduce the taxable income (within certain limits and thresholds depending on the Member States). 
+The EESC specifies that Portugal has in place an enhanced tax deduction, meaning that donors can deduct up to 140 % 
+of 
+the value of the food at time of donation, provided that the food will be used for a social purpose (such as supplying 
+f
+ood banks) and limited to 8/1 000 of the donor's turnover.
+8. OTHER EU PROGRAMMES
+8.1. Fund for European Aid to the Most Deprived and food donations
+The Fund for European Aid to the Most Deprived (FEAD) has the specific objective to contribute to alleviating the worst 
+for
+ms of poverty in the EU through the provision of non-financial assistance to the most disadvantaged persons in the 
+EU. Assistance from the FEAD may take the form of food support, basic material assistance (clothing, footwear, hygiene 
+items, etc.) or actions to promote the social inclusion of the most deprived persons.
+In every Member State, the FEAD is implemented with the help of partner organisations – public bodies or non-profit 
+or
+ganisations – in charge of distributing the assistance or undertaking the social inclusion activities.
+The food distributed by the partner organisations may be purchased with FEAD resources but it may also be donated. 
+A
+ FEAD operational programme may provide for the financing of food donations, whereby food is donated to a partner 
+org
+anisation and distributed to the most deprived persons free of charge. The costs of the partner organisations for the 
+collection of the donated food from the donor, its transportation, storage, and distribution to the most deprived persons 
+may be covered with FEAD funds. In this way, the FEAD may contribute to reducing food waste. Awareness-raising 
+activities of the partner organisations among potential donors may also be supported by the FEAD.
+The possibility for the financing of food donations has to be provided for in the corresponding FEAD operational pro
+gramme. Regulation (EU) No 223/2014 of the European Parliament and of the Council (2) establishes that the partner 
+or
+ganisations are reimbursed on the basis of their actual costs incurred and paid (3). However the Commission has pro
+posed
+ several amendments to Regulation (EU) No 223/2014 as part of the proposal for revision of the Financial Regula
+tion, adopt
+ed on 14 September 2016 (COM(2016) 605 final). One of these amendments, if adopted, will offer the pos
+sibility
+ for Member States to also use simplified cost options when financing food donations. As a result, the Member 
+S
+tates will be able to define flat rates, lump sums or unit costs and use them as basis for payments to partner organisa
+tions which collect and distribute donated food.
+The Commission has set up the FEAD Network for exchange of experience and good practice among the FEAD stake
+holders. This is a forum where partner organisations may share their experiences with donated food: http://ec.europa.eu/
+feadnetwork
+8.2. Common Organisation of the markets in agricultural products
+The EU's mark et-management scheme (element of the ‘common organisation of agricultural markets’ ) actively supports 
+t
+he fruit and vegetable sector through four broad goals: a more competitive and market-oriented sector; fewer crisisr
+elated fluctuations in producers' income; greater consumption of fruit and vegetables in the EU; and increased use of 
+eco-friendly cultivation and production techniques.
+In order to benefit from the fruit and vegetable regime, growers are encouraged to join producer organisations (POs) 
+whic
+h receive support for implementing operational programmes, based on a national strategy.
+(1) With a limit of 0,5 % of the company's turnover.
+(2) R egulation (EU) No 223/2014 of the European Parliament and of the Council of 11 March 2014 on the Fund for European Aid to the 
+Most 
+Deprived (OJ L 72, 12.3.2014, p. 1).
+(3) See
+ Article 26(2)(d) of Regulation (EU) No 223/2014.
+25.10.2017 EN Official Journal of the European Union C 361/21
+
+[page 22] (text layer)
+Crisis prevention and management measures under the Common Organisation of the markets in agricultural products 
+(CMO)
+ offer POs the possibility of withdrawing quantities of fruits and vegetables from the market. As production of 
+fruit and vegetables is subject to important fluctuations and the products are seasonal and highly perishable, the with
+drawal schemes facilitate the management of market surplus which may arise. Financial support is fully provided by the 
+Union budget if the destination of fruit and vegetables withdrawn from the market is the free distribution of products 
+through charities (within the limit of 5 % of the volume of marketed production of each PO). Upon request however, 
+Member
+ States may authorise the charitable organisation and institutions which receive such products to ask for 
+a contribution from the final recipients.
+EU legislation gives priority to free distribution (charity withdrawals) over other destinations by granting a higher level 
+of
+ financial support. When fruit and vegetables are withdrawn for other destinations (i.e. non-food use such as compost
+ing, fertiliser, energy conversion, etc.), Union financial assistance is limited to 50 % (or under some conditions 60 %) of 
+the
+ actual expenditure incurred. These withdrawals of fruit and vegetables are therefore a form of organised donation to 
+final
+ recipients.
+The free distribution of fruit and vegetables withdrawn from the market concerns the following beneficiaries: charitable 
+organisations and foundations approved by Member States; penal institutions; schools; children's holiday camps; and 
+hospitals and old people's homes designated by the Member States.
+These beneficiaries take all the necessary steps to ensure that the quantities thus distributed are additional to the quanti
+ties 
+normally bought in by such establishments and that they have sufficient capacity to store the received product.
+The CMO rules also allow for the processing of fruit and vegetables withdrawn from the market for free distribution. In 
+such
+ instances, payment in kind by the beneficiaries of free distribution to processors of fruit and vegetables may be 
+allowed provided that appropriate rules are in place at Member State level ensuring that processed products are intended 
+for the final recipients.
+Specific labelling is also for eseen to promote the source and the use of the EU funding. By granting a higher contribu
+tion
+ rate, the Union's priority allocation of market withdrawals is clearly that products withdrawn are redistributed to 
+the needy through charities as well as other institutions approved by Member States.
+8.3. Common Organisation of the markets in fishery and aquaculture products
+Contributing to the sustainable exploitation of living marine biological resources is one of the main goals of the com
+mon organisation of the markets (CMO) in fishery and aquaculture products. Producer organisations (POs) are the main 
+actors in charge of delivering on this goal.
+Two complementary objectives in this context are to avoid and reduce as far as possible unwanted catches and, to the 
+e
+xtent that they cannot be avoided, to make the best use of them. In order to achieve the conservation goals of the EU 
+common fisheries policy and with a view to encourage selective fishing practices, minimum conservation reference sizes 
+appl
+y for certain species. As a consequence, for such species, catches which are below the minimum conservation size 
+may not be used for direct human consumption. Such catches may be used however for other purposes, provided that 
+these do not lead to the creation of a market for undersized f ish.
+Another important activity of POs is the adjustment of production to market requirements. By planning the catching 
+activities
+ according to market demand so that there is always a market outlet for fish which are landed, POs can ensure 
+the
+ best possible revenues for fishermen while at the same time limiting the generation of food waste.
+Since its reform in 2014, the CMO has done away with most compensation measures for market withdrawals. However, 
+to
+ ensure a smooth phasing in of the new system, a temporary measure (1) was introduced which, until the end of 
+2018,
+ allows fishery POs to withdraw products from the market when the market price is too low. This financial sup
+port is granted under specific conditions requiring for instance that the products be put back on the market for human 
+consumption (whether in return for a payment or free of charge).
+While the CMO does not specifically promote the donation of fishery and aquaculture products, this option is not 
+e
+xcluded. The provision of fishery products for direct human consumption is restricted only for those products which 
+comply with minimum conservation reference sizes and with the common marketing standards at the moment of their 
+first offer for sale or first sale. Such a restriction does not apply to aquaculture products.
+(1) Art. 67 of Regulation (EU) No 508/2014 of the European Parliament and of the Council of 15 May 2014 on the European Maritime 
+and 
+Fisheries Fund and repealing Council Regulations (EC) No 2328/2003, (EC) No 861/2006, (EC) No 1198/2006 and (EC) 
+No 791/2007 and Regulation (EU) No 1255/2011 of the European Parliament and of the Council (OJ L 149, 20.5.2014, p. 1).
+C 361/22 EN Official Journal of the European Union 25.10.2017
+
+[page 23] (text layer)
+References
+(BE) ‘Circulaire relative aux dispositions applicables aux banques alimentaires et associations caritatives’, Agence Fédérale 
+pour
+ la Sécurité de la Chaîne alimentaire, FAVV-AFSCA, 8 February 2017.
+http://www.favv-afsca.be/denreesalimentaires/circulaires/_documents/2017-02-08_Circob_Banq
+uesalimentaires_FR_V3_clean.pdf
+‘Comparative study on EU Member States’ legislation and pr actices on food donations'. European Economic and Social 
+Committee, June 2014.
+http://www.eesc.europa.eu/resources/docs/comparative-study-on-eu-member-states-legislation-and-practices-on-fooddonation_f
+inalreport_010714.pdf
+‘Counting the Cost of Food Waste: EU food waste prevention. 10th Report of Session 2013-14’ Eur opean Union Com
+mittee, House of Lords, UK.
+http://www.parliament.uk/documents/lords-committees/eu-sub-com-d/food-waste-prevention/154.pdf
+‘European Hospitality Industry Guidelines to Reduce Food Waste and Recommendations to Manage Food Donations’. 
+HO
+TREC Hospitality Europe, 2017.
+‘Every Meal Matters — Food donation guidelines’. FoodDrinkEurope/EuroCommerce/European Federation of Food 
+Banks — endorsed by the Standing Committee on Plants, Animals, Food and Feed, 2016.
+http://www.fooddrinkeurope.eu/uploads/publications_documents/
+6194_F
+oodDrink_Europe_Every_Meal_Matters_screen.pdf
+(FI) ‘Foodstuffs donated to Food Aid’, EVIRA Control Department, 21 May 2013.
+http://www.diva-portal.org/smash/get/diva2:902211/ATTACHMENT02.pdf
+‘Food Redistribution in the Nordic Region, Experiences and results from a pilot study’ (TemaNord, 2014).
+http://norden.diva-portal.org/smash/get/diva2:784307/FULLTEXT01.pdf
+‘Food R edistribution in the Nordic Region: Phase II: Identification of best practice models for enhanced food redistribu
+tion’ (TemaNord, 2016).
+http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A902211&dswid=-1064
+(FR) ‘Entreprises du secteur alimentaire: Guide pratique et réglementaire pour donner aux associations d'aide alimentaire’, 
+DRAAF Rhône-Alpes.
+http://draaf.auvergne-rhone-alpes.agriculture.gouv.fr/IMG/pdf/Guide_dons_alimentaires_-_20-septembre-1_cle0124ef.pdf
+(FR) ‘Guide t o Good Hygiene Practices in the distribution of foods by charity organisations’, French Federation of Food 
+Banks, 2011.
+(FR) La w No 2016-138 of 11 Febr uary 2016 reg arding the fight against food waste, JORF No 0036 of 12 F ebruary 
+2016.
+https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032036289&dateTexte=&categorieLien=id
+(FR) Mutual ag reement model for food donation between a retail company and a food aid association aut horised in 
+application of article L. 230-6 of t he rural and maritime fisheries code (Convention de dons de denrées alimentaires 
+entre un commerce de détail aliment aire et une association d'aide alimentaire habilitée en application de l'article L. 230-6 
+du code r ural e t de la pêche maritime) (see: http://agriculture.gouv.fr/don-alimentaire-un-modele-de-convention-entredis
+tributeurs-et-associations).
+‘Review of EU legislation and policies with implications on food waste’, FUSIONS, June 2015.
+https://www.eu-fusions.org/index.php/publications/267-analysing-food-waste-policies-across-the-eu-28
+25.10.2017 EN Official Journal of the European Union C 361/23
+
+[page 24] (text layer)
+‘Hospitality Food Surplus Redistribution Guidelines’, FUSIONS, September 2015.
+http://www.eu-fusions.org/phocadownload/feasibility-studies/Hospitality/Hospitalty%20Food%20Surplus
+%20R
+edistribution%20Guideline.pdf
+(IT) Law No 166 of 19 August 2016. ‘Measures regarding donation and distribution of food products and pharmaceuti
+cals f
+or social solidarity and for the limitation of waste’ (‘Dispozioni concer nenti la donazione e la dis tribuzione di 
+prodotti alimentare e farmaceutici a fini di solidar ietà sociale e per la limit azione degli sprechi’). Gazzetta Uf ficiale della 
+Republica Italiana, No 202, 30 August 2016.
+http://www.gazzettaufficiale.it/eli/gu/2016/08/30/202/sg/pdf
+(IT) Manual of Good Pr actices for Charitable Organisations, Caritas Italiana, the Fondazione Banco Alimentare 
+ONLUS, 2016.
+(NL) Food Safety Handbook, Association of Dutch food banks, 2016.
+(PT) Pr ocedures to be adopted for restaurants/catering services/events; Procedures for food donated by large establish
+ments; Frequently Asked Questions — NGO DariAcordar with ASAE (Food and Economic Safety Authority) and the 
+DGAV (National Authority for Animal Health).
+See also ‘additional national/sectorial food donation guidelines’ published at:
+http://ec.europa.eu/food/safety/food_waste/library/index_en.htm
+C 361/24 EN Official Journal of the European Union 25.10.2017
+
+[page 25] (text layer)
+ANNEX 1
+Summary table of legal provisions with relevance for food donation (1)
+General Food Law Regulation (EC) No 178/2002 — This Regulation applies to all food business 
+oper
+ators placing food on the market, 
+including redistribution organisations and 
+other charity organisations (Art. 3.2).).
+ — All actors in the food chain shall ensure 
+t
+hat food satisfies the requirements of the 
+General Food Law (Art. 17.1).
+ — A food business operat or is held responsi
+ble for compliance with all food law 
+requirements (e.g. food safety, food hygiene, 
+food information for consumers) for activi
+ties occurring in the part of the food chain 
+under its own control (Art. 17).
+ — Article 14 lays down essential food safety 
+req
+uirements to be adhered to by all actors.
+ — Article 18 of the General Food Law intro
+duces
+ the concept of traceability.
+ — Activities related to private domestic use 
+and
+ consumption of foods are excluded 
+from the scope of the Regulation (Art. 1.3).
+Food Hygiene Package — Regulation (EC) No 852/2004
+— Regulation (EC) No 853/2004
+— All food business operators have to comply 
+with
+ EU rules related to food hygiene.
+ — It is necessary to ensure food safety 
+throughout the food chain, starting with 
+primary production.
+ — It is important for food that cannot be 
+s
+tored safely at ambient temperatures, par
+ticularly frozen food, to maintain the cold 
+chain.
+ — Good hygiene practices and procedures 
+based
+ on HACCP principles, where applica
+ble, need to be complied with throughout 
+the food chain.
+ — Specific requirements apply for distribu
+tion/donation
+ of foods of animal origin.
+(1) Table based on presentation of the European Economic and Social Committee's ‘Comparative study on EU Member States’ legislation 
+and 
+practices on food donations' (Bio by Deloitte, 7 July 2014).
+25.10.2017 EN Official Journal of the European Union C 361/25
+
+[page 26] (text layer)
+— Hygiene r ules should apply only to under
+takings, the concept of which implies 
+a certain continuity of activities and 
+a certain deg ree of organisation (recital 9 
+of Regulation (EC) No 852/2004).
+Food labelling and 
+durability
+Regulation (EU) No 1169/2011 — Food business oper ators are required to 
+indicate a ‘best before’ or a ‘use by’ date.
+ — The mar keting of foodstuffs beyond their 
+‘best before date’ is allo wed under EU law 
+(but distribution of foods past the ‘use by’ 
+date is consider ed unsafe and therefore 
+prohibited).
+ — Rules on t he provision of food information 
+to consumers shall apply only to undertak
+ings, the concept of which implies a certain 
+continuity of activities and a certain deg ree 
+of organisation (recital 15).
+VAT rules Directive 2006/112/EC
+VAT Committ ee guidelines resulting from its 
+97th meeting (1)
+— According t o Directive 2006/112/EC, V AT 
+has to be paid on food intended for dona
+tion if the VAT paid by the donor upon 
+purchase has been deducted (Art. 16).
+ — The t axable amount is the purchase price 
+at the moment of the donation adjusted to 
+the state of those goods at the time when 
+the donation takes place (Art. 74).
+ — COM recommends t hat, for foods which 
+are close to the ‘best before’ dat e, Member 
+States should consider the value on which 
+the VAT is calculated to be fairly low, even 
+close to zero in cases where the food gen
+uinely has no value.
+Official Controls Regulation (EC) No 854/2004 of t he Euro
+pean Parliament and of the Council of 
+29 Apr il 2004 la ying down specific rules for 
+the organisation of official controls on prod
+ucts of animal origin intended for human 
+consumption
+(OJ L 139, 30.4.2004, p. 206)
+— Controls of establishments producing prod
+ucts of animal or
+igin intended for human 
+consumption.
+ Regulation (EC) No 882/2004 of t he Euro
+pean Parliament and of the Council of 
+29 Apr il 2004 on of ficial controls performed 
+to ensure the verification of compliance with 
+feed and food law, animal health and animal 
+welfare rules (OJ L 165, 30.4.2004, p. 1)
+— Controls t o ensure compliance with food 
+and feed legislation, animal health and wel
+fare rules.
+C 361/26 EN Official Journal of the European Union 25.10.2017
+
+[page 27] (text layer)
+Regulation (EU) 2017/625 of t he European 
+Parliament and of the Council of 15 Mar ch 
+2017 on of ficial controls and other official 
+activities performed to ensure the application 
+of food and feed law, rules on animal health 
+and welfare, plant health and plant 
+protection products, amending R egulations 
+(EC) No 999/2001, (EC) No 396/2005, (EC) 
+No 1069/2009, (EC) No 1107/2009, (EU) 
+No 1151/2012, (EU) No 652/2014, (EU) 
+2016/429 and (EU) 2016/2031 of t he 
+European P arliament and of the Council, 
+Council Regulations (EC) No 1/2005 and 
+(EC) N o 1099/2009 and Council Directiv es 
+98/58/EC, 1999/74/EC, 2007/43/EC, 
+2008/119/EC and 2008/120/EC, and repeal
+ing R
+egulations (EC) No 854/2004 and (EC) 
+No 882/2004 of t he European Parliament 
+and of t he Council, Council Directives 
+89/608/EEC, 89/662/EEC, 90/425/EEC, 
+91/496/EEC, 96/23/EC, 96/93/EC and 
+97/78/EC and Council Decision 92/438/EEC 
+(Official Contr ols Regulation) (OJ L 95, 
+7.4.2017, p. 1)
+— Addresses of ficial controls and other offi
+cial activities performed to ensure the 
+application of food and feed law, rules on 
+animal health and welfare, plant health and 
+plant protection products. The new rules 
+will gradually become applicable with the 
+main application date being 14 December 
+2019.
+Waste Framework 
+Directiv
+e (WFD)
+Directive 2008/98/EC of t he European Parlia
+ment and of the Council of 19 N ovember 
+2008 on wast e and repealing certain Direc
+tives (OJ L 312, 22.11.2008, p. 3)
+— Establishes w aste prevention as the first 
+step of the waste hierarchy and requires 
+Member States to set up waste prevention 
+programmes.
+ — Proposal t o amend WFD (COM(2015) 595 
+final) strengthens food waste prevention as 
+part of overall waste prevention policy. 
+Calls on Member States to reduce food 
+waste at each stage of the supply chain, 
+monitor food waste levels and report on 
+biennial basis.
+ — The Commission will adop t methodology 
+to measure food waste based on favourable 
+opinion of Member States.
+Information society 
+ser
+vices (in particular 
+e-commerce)
+Directive 2000/31/EC — Contributes t o the proper functioning of 
+the internal market by ensuring the free 
+movement of information society services 
+between the Member States.
+ — Approximates cer tain national provisions 
+on information society services relating, 
+inter alia, to the liability of intermediaries.
+ — Complements U nion law applicable to 
+information society services without preju
+dice to the level of protection for, in partic
+ular, public health and consumer interests 
+as laid down in EU and national rules, in 
+so far as this does not restrict the freedom 
+to provide information society services.
+25.10.2017 EN Official Journal of the European Union C 361/27
+
+[page 28] (text layer)
+Common organisation 
+of
+ the markets in agri
+cultural products
+Regulation (EU) No 1308/2013 of t he Euro
+pean Parliament and of the Council of 
+17 December 2013 est ablishing a common 
+or
+ganisation of the markets in agricultural 
+products and repealing Council Regulations 
+(EEC) No 922/72, (EEC) No 234/79, (EC) 
+No 1037/2001 and (EC) No 1234/2007 
+(OJ L 347, 20.12.2013, p. 671)
+Art. 34(4) on Char ity withdrawals. These with
+drawals are at present a form of organised dona
+tion
+ for ‘free’ to final recipients. The related legis
+lation pr
+ovides a higher support for free 
+distribution (c harity withdrawals) than for 
+withdrawals f or other destinations. A specific 
+labelling is also f
+oreseen to promote the source 
+and the use of the EU funding. The priority allo
+cation of market withdrawals is clearly that aid is 
+given to the needy through charities and other 
+institutions approved by Member States. Other 
+uses of withdrawn products take place as alter
+natives to free distribution.
+Common organisation 
+of
+ the markets in fish
+ery and aquaculture 
+products
+Regulation (EU) No 1379/2013 Art. 34(2) on com pliance with common mar
+keting standards. Fishery products that do not 
+comply with common marketing standards 
+(including minimum conservation reference 
+sizes) may not be provided for direct human 
+consumption. Other uses are permitted.
+Common Fisheries Pol
+icy
+ Control rules
+Regulation (EC) No 1224/2009 Article 58 intr oduces the specific traceability 
+requirements applicable to fishery and aquacul
+ture products.
+Fund for European Aid 
+t
+o the Most Deprived 
+(FEAD)
+Regulation (EU) No 223/2014 — An FEAD oper ational programme may 
+foresee the financing of food donations, 
+whereby food is donated to a partner 
+or
+ganisation (public body or non-profit 
+organisation) free of charge.
+ — The cos ts for the collection of the donated 
+food from the donor, its transportation, 
+storage, and distribution to the most 
+deprived persons may be covered with 
+FEAD funds.
+ — Awareness-raising activities among po ten
+tial food donors may also be supported.
+(1) Included in the list of guidelines (see p. 165) to be found at: http://ec.europa.eu/taxation_customs/resources/documents/taxation/vat/
+k
+ey_documents/vat_committee/guidelines-vat-committee-meetings_en.pdf
+C 361/28 EN Official Journal of the European Union 25.10.2017
+
+[page 29] (text layer)
+ANNEX 2
+Decision tree: Do I need to comply with Regulation (EC) No 853/2004 as a retailer supplying to 
+c
+harity organisation/food bank or as charity organisation/food bank?
+25.10.2017 EN Official Journal of the European Union C 361/29

@@ -1,0 +1,33 @@
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true
+# Reachable from other devices on the same network (a phone as a driver): http://<this laptop's IP>:8501
+address = "0.0.0.0"
+
+[client]
+toolbarMode = "minimal"
+
+# Neutral theme: white surfaces, zinc grays, near-black text and buttons.
+[theme]
+base = "light"
+primaryColor = "#18181b"
+backgroundColor = "#fafafa"
+secondaryBackgroundColor = "#f4f4f5"
+textColor = "#18181b"
+borderColor = "#e4e4e7"
+linkColor = "#18181b"
+font = "'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif"
+baseFontSize = 15
+headingFontWeights = [650, 600, 600, 600, 600, 600]
+baseRadius = "6px"
+buttonRadius = "6px"
+showWidgetBorder = true
+dataframeHeaderBackgroundColor = "#fafafa"
+# Categorical chart slots in a fixed order (validated palette): blue, orange, aqua, yellow, magenta, green, violet, red.
+chartCategoricalColors = ["#2a78d6", "#eb6834", "#1baf7a", "#eda100", "#e87ba4", "#008300", "#6250d6", "#e34948"]
+
+[theme.sidebar]
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#fafafa"

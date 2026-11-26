@@ -1,0 +1,9 @@
+# Conversion factor for the impact counter. It was checked against its source on 2026-11-22.
+# It gives an order of magnitude for the demo, not a measurement: the app always shows it with "≈".
+
+meals:
+  kg_per_meal: 0.42
+  source: >-
+    WRAP (2020), Reporting on the amounts of food surplus redistributed (weight and meal equivalents):
+    "WRAP recommends the use of 420g as an 'average' meal size".
+  url: https://wrap.ngo/resources/guide/reporting-amounts-food-surplus-redistributed-weight-and-meal-equivalents-wrap

@@ -1,0 +1,185 @@
+# Demo evening in Tunis: 8 merchants, 5 charities, 3 drivers, 8 offers, 1 driver cancellation
+# (Youssef, at 19:25, before his pickup at Mehrez Fruits et Légumes). If the plans change, check with
+# `python -m foodrescue run --protocol replan` that the cancellation still moves at least one donation.
+# Merchants and charities are real places in Tunis: names and map positions from Google Maps (November 2026).
+# Everything they do in this scenario (offers, needs, capacities, opening hours) is invented for the demo.
+# Drivers are fictional. Times are "HH:MM"; values above 23:59 mean the next day ("47:59" = end of tomorrow).
+# Each offer has the merchant's raw text AND its structured version: the structured one is used
+# while LLM intake is switched off (features.llm_intake in config/default.yaml).
+
+name: demo-evening
+seed: 42
+city: Tunis
+start: "18:00"
+end: "23:30"
+
+merchants:
+  - {id: M01, name: Pâtisserie Decarlo, kind: bakery, language: fr, location: {lat: 36.8140881, lon: 10.1783546, address: "Av. Hédi Chaker, Lafayette"}}
+  - {id: M02, name: Federico, kind: restaurant, language: fr, location: {lat: 36.8318927, lon: 10.2320647, address: "Rue du Lac de Constance, Les Berges du Lac"}}
+  - {id: M03, name: Monoprix Ennasr, kind: supermarket, language: en, location: {lat: 36.8562714, lon: 10.1579252, address: "19 Av. Hédi Nouira, Ennasr"}}
+  - {id: M04, name: Ô Pain Doré, kind: bakery, language: fr, location: {lat: 36.8023282, lon: 10.1815182, address: "35 Rue Garibaldi, Tunis"}}
+  - {id: M05, name: Dar Slah, kind: restaurant, language: en, location: {lat: 36.7986221, lon: 10.1711398, address: "145 Rue de la Kasbah, Médina"}}
+  - {id: M06, name: Mehrez Fruits et Légumes, kind: greengrocer, language: fr, location: {lat: 36.8184308, lon: 10.1664469, address: "Bab Saadoun"}}
+  - {id: M07, name: Comme chez toi Monplaisir, kind: restaurant, language: fr, location: {lat: 36.8211032, lon: 10.1881457, address: "46 Av. Kheireddine Pacha, Montplaisir"}}
+  - {id: M08, name: Hôtel Les Ambassadeurs, kind: hotel, language: en, location: {lat: 36.8174057, lon: 10.1767377, address: "Av. Taïeb Mhiri, Tunis"}}
+
+charities:
+  - id: C01
+    name: Association Tunisienne de Gestion et d'Équilibre Social
+    location: {lat: 36.8365803, lon: 10.1485141, address: "El Omrane Supérieur"}
+    opening: {start: "17:00", end: "23:00"}
+    capacity_kg: 60
+    has_fridge: true
+    needs: {prepared_meal: 30, bakery: 10, produce: 10}
+  - id: C02
+    name: Association El Fourat
+    location: {lat: 36.7965222, lon: 10.171787, address: "Médina"}
+    opening: {start: "18:00", end: "22:00"}
+    capacity_kg: 50
+    has_fridge: false
+    needs: {prepared_meal: 25, bakery: 15}
+  - id: C03
+    name: Diar El Amel
+    location: {lat: 36.8651229, lon: 10.1734467, address: "Av. Jallouli Fares, Ariana"}
+    opening: {start: "08:00", end: "20:30"}
+    capacity_kg: 150
+    has_fridge: true
+    needs: {dairy: 30, produce: 40, dry_goods: 50}
+  - id: C04
+    name: Kafel El Yatim
+    location: {lat: 36.8552421, lon: 10.1884295, address: "Rue Khaled El Agrebi, Ariana"}
+    opening: {start: "17:00", end: "21:30"}
+    capacity_kg: 40
+    has_fridge: true
+    needs: {dairy: 10, bakery: 10, prepared_meal: 15}
+  - id: C05
+    name: Dar Maram
+    location: {lat: 36.8060162, lon: 10.1285939, address: "42 Rue de l'Indépendance, Le Bardo"}
+    opening: {start: "19:00", end: "23:30"}
+    capacity_kg: 35
+    has_fridge: false
+    needs: {prepared_meal: 20, bakery: 10}
+
+drivers:
+  - {id: D1, name: Sami, capacity_kg: 80, home: {lat: 36.8100, lon: 10.1700}, shift: {start: "18:00", end: "23:00"}}
+  - {id: D2, name: Leila, capacity_kg: 60, home: {lat: 36.8400, lon: 10.1900}, shift: {start: "18:00", end: "23:00"}}
+  - {id: D3, name: Youssef, capacity_kg: 100, home: {lat: 36.8050, lon: 10.1500}, shift: {start: "18:30", end: "23:30"}}
+
+offers:
+  - id: O1
+    time: "18:05"
+    merchant_id: M01
+    text: "Bonsoir, il nous reste 30 croissants et 5 kg de riz cuit aujourd'hui, gardé au frigo. Dispo jusqu'à 22h."
+    donation:
+      id: O1
+      merchant_id: M01
+      created_at: "18:05"
+      storage: chilled
+      prepared_at: "13:00"
+      pickup_window: {start: "18:15", end: "22:00"}
+      items:
+        - {name: croissants, category: bakery, quantity: 30, unit: piece, kg: 2.1}
+        - {name: cooked rice, category: prepared_meal, quantity: 5, unit: kg, kg: 5}
+
+  - id: O2
+    time: "18:20"
+    merchant_id: M02
+    text: "Bonsoir, ici Federico : 4 kg de poisson grillé et 2 kg de frites, préparés à 18h et gardés au chaud. Récupération entre 19h et 21h."
+    donation:
+      id: O2
+      merchant_id: M02
+      created_at: "18:20"
+      storage: hot
+      prepared_at: "18:00"
+      pickup_window: {start: "19:00", end: "21:00"}
+      items:
+        - {name: grilled fish, category: prepared_meal, quantity: 4, unit: kg, kg: 4}
+        - {name: fries, category: prepared_meal, quantity: 2, unit: kg, kg: 2}
+
+  - id: O3
+    time: "18:40"
+    merchant_id: M03
+    text: "Supermarket surplus: 40 yogurts (best before tomorrow), 10 kg bananas and 12 loaves of bread. Pickup before 20:00 at the back door."
+    donation:
+      id: O3
+      merchant_id: M03
+      created_at: "18:40"
+      storage: chilled
+      expires_at: "47:59"
+      pickup_window: {start: "18:45", end: "20:00"}
+      items:
+        - {name: yogurts, category: dairy, quantity: 40, unit: piece, kg: 5}
+        - {name: bananas, category: produce, quantity: 10, unit: kg, kg: 10}
+        - {name: bread, category: bakery, quantity: 12, unit: loaf, kg: 6}
+
+  - id: O4
+    time: "19:00"
+    merchant_id: M05
+    text: "Good evening, we have 20 plates of chicken couscous cooked at 6 pm, still hot. Pickup before 10 pm please."
+    donation:
+      id: O4
+      merchant_id: M05
+      created_at: "19:00"
+      storage: hot
+      prepared_at: "18:00"
+      pickup_window: {start: "19:10", end: "22:00"}
+      items:
+        - {name: couscous with chicken, category: prepared_meal, quantity: 20, unit: portion, kg: 8}
+
+  - id: O5
+    time: "19:15"
+    merchant_id: M06
+    text: "Bonsoir, nous avons 15 kg de légumes (tomates et poivrons) encore frais, à récupérer avant 20h30."
+    donation:
+      id: O5
+      merchant_id: M06
+      created_at: "19:15"
+      storage: ambient
+      pickup_window: {start: "19:20", end: "20:30"}
+      items:
+        - {name: tomatoes and peppers, category: produce, quantity: 15, unit: kg, kg: 15}
+
+  - id: O6
+    time: "19:30"
+    merchant_id: M07
+    text: "Il reste 4 kg de riz cuit depuis ce midi, laissé sur le comptoir. Dispo jusqu'à 22h."
+    donation:
+      id: O6
+      merchant_id: M07
+      created_at: "19:30"
+      storage: ambient
+      prepared_at: "12:00"
+      pickup_window: {start: "19:35", end: "22:00"}
+      items:
+        - {name: cooked rice, category: prepared_meal, quantity: 4, unit: kg, kg: 4}
+
+  - id: O7
+    time: "19:50"
+    merchant_id: M04
+    text: "Bonsoir ! 50 pains tabouna et 20 croissants de la journée, à récupérer avant 21h30."
+    donation:
+      id: O7
+      merchant_id: M04
+      created_at: "19:50"
+      storage: ambient
+      pickup_window: {start: "19:55", end: "21:30"}
+      items:
+        - {name: tabouna bread, category: bakery, quantity: 50, unit: piece, kg: 10}
+        - {name: croissants, category: bakery, quantity: 20, unit: piece, kg: 1.4}
+
+  - id: O8
+    time: "20:10"
+    merchant_id: M08
+    text: "Hotel Les Ambassadeurs buffet leftovers: 6 trays of pasta (about 3 kg each), kept in the fridge since 14:30. Available until 23:00."
+    donation:
+      id: O8
+      merchant_id: M08
+      created_at: "20:10"
+      storage: chilled
+      prepared_at: "14:00"
+      pickup_window: {start: "20:15", end: "23:00"}
+      items:
+        - {name: pasta, category: prepared_meal, quantity: 6, unit: tray, kg: 18}
+
+disruptions:
+  - {time: "19:25", kind: driver_cancel, target_id: D3, reason: car broke down}

@@ -1,0 +1,39 @@
+{
+  "key": "e4ecc8341e31ebddaa75a56bb0a0b9fb161580ddd9530b8751e20b1ebec117a2",
+  "model": "qwen3.5:9b-q4_K_M",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You read messages from shops and restaurants that want to donate leftover food.\nMessages can be in French, English, Arabic, Tunisian dialect (in Arabic letters, or in Latin letters\nwith digits such as 3, 5, 7, 9), or a mix of them.\nCopy ONLY what the message says into the JSON fields. Never guess: if something is not said, use null.\n\nRules:\n- items: one entry per distinct food. name = short English name.\n- category: bakery (bread, pastries), produce (raw fruits and vegetables), dairy (milk, yogurt,\n  cheese), meat_fish (RAW meat or fish), prepared_meal (cooked or ready-to-eat dishes, sandwiches,\n  salads; cooked fish or meat too), dry_goods (packaged, canned, dry food), other.\n- quantity and unit exactly as written. \"about 8 kg\" gives quantity 8, unit kg. Plates, dishes, parts\n  (assiettes, parts, صحن, s7an) are unit portion.\n- Times: use the 24-hour clock when am/pm, \"evening\" or \"soir\" makes it clear; otherwise copy\n  the number as written. \"et demi\", \"w nos\", \"و نص\", \"half past\" add 30 minutes.\n  day_offset is 0 (today) unless the message says tomorrow (demain, ghodwa, غدوة, غدا): then 1.\n- available_until: the deadline to collect the food (\"before 21h\", \"jusqu'à 22h\", \"9bal 9\" all go here).\n- available_from: only when the message gives a start (\"between 19h and 21h\": from 19:00, until 21:00).\n  A single time with \"before\" or \"until\" is NEVER a start time.\n- prepared_at: when cooked food was prepared, only if said. Words count as times: noon / midi / lunch\n  = 12:00, \"since noon\" or \"depuis ce midi\" gives prepared_at 12:00, \"this morning\" = 08:00.\n- \"5odra\", \"khodra\", \"خضرة\" mean raw vegetables (produce), not a cooked dish.\n- expiry_days: days until the date on the product, only if said (tomorrow = 1). \"Made today\" is not an expiry.\n- storage: ambient (room temperature), chilled (fridge), frozen, hot (kept warm), only if the message\n  says it. Do not deduce it from the type of food.\n- language: main language of the message (fr, en, ar, or mixed)."
+    },
+    {
+      "role": "user",
+      "content": "Current time: 17:00\nMessage: Salut, on a 12 sandwichs thon et 3 kg de pâtes cuites au frigo, à prendre entre 20h et 21h30"
+    },
+    {
+      "role": "assistant",
+      "content": "{\"items\":[{\"name\":\"tuna sandwiches\",\"category\":\"prepared_meal\",\"quantity\":12.0,\"unit\":\"piece\"},{\"name\":\"cooked pasta\",\"category\":\"prepared_meal\",\"quantity\":3.0,\"unit\":\"kg\"}],\"available_until\":{\"hour\":21,\"minute\":30,\"day_offset\":0},\"available_from\":{\"hour\":20,\"minute\":0,\"day_offset\":0},\"prepared_at\":null,\"expiry_days\":null,\"storage\":\"chilled\",\"language\":\"fr\"}"
+    },
+    {
+      "role": "user",
+      "content": "Current time: 16:00\nMessage: 3andi 2 cageots tmatem w 40 khobza, ta3dou 9bal 7"
+    },
+    {
+      "role": "assistant",
+      "content": "{\"items\":[{\"name\":\"tomatoes\",\"category\":\"produce\",\"quantity\":2.0,\"unit\":\"crate\"},{\"name\":\"bread\",\"category\":\"bakery\",\"quantity\":40.0,\"unit\":\"piece\"}],\"available_until\":{\"hour\":7,\"minute\":0,\"day_offset\":0},\"available_from\":null,\"prepared_at\":null,\"expiry_days\":null,\"storage\":null,\"language\":\"ar\"}"
+    },
+    {
+      "role": "user",
+      "content": "Current time: 15:00\nMessage: لدينا 6 كيلو دجاج نيء صالح حتى بعد غد، الاستلام من الساعة 5 إلى 7 مساء"
+    },
+    {
+      "role": "assistant",
+      "content": "{\"items\":[{\"name\":\"raw chicken\",\"category\":\"meat_fish\",\"quantity\":6.0,\"unit\":\"kg\"}],\"available_until\":{\"hour\":19,\"minute\":0,\"day_offset\":0},\"available_from\":{\"hour\":17,\"minute\":0,\"day_offset\":0},\"prepared_at\":null,\"expiry_days\":2,\"storage\":null,\"language\":\"ar\"}"
+    },
+    {
+      "role": "user",
+      "content": "Current time: 18:21\nMessage: Bonsoir, ici Federico : 4 kg de poisson grillé et 2 kg de frites, préparés à 18h et gardés au chaud. Récupération entre 19h et 21h."
+    }
+  ],
+  "response": "{\"items\":[{\"name\":\"grilled fish\",\"category\":\"prepared_meal\",\"quantity\":4.0,\"unit\":\"kg\"},{\"name\":\"fries\",\"category\":\"prepared_meal\",\"quantity\":2.0,\"unit\":\"kg\"}],\"available_until\":{\"hour\":21,\"minute\":0,\"day_offset\":0},\"available_from\":{\"hour\":19,\"minute\":0,\"day_offset\":0},\"prepared_at\":{\"hour\":18,\"minute\":0,\"day_offset\":0},\"expiry_days\":null,\"storage\":\"hot\",\"language\":\"fr\"}"
+}

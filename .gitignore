@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Tools
+.ruff_cache/
+.streamlit/secrets.toml
+
+# Editors / OS / local tool settings
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Note: data/llm_cache/ is committed on purpose (the demo replays it without Ollama).
+
+# Local demo videos
+demo/

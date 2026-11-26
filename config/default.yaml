@@ -1,0 +1,42 @@
+# Food Rescue configuration. Paths are relative to the project folder.
+
+llm:
+  model: qwen3.5:9b-q4_K_M   # chat model served by Ollama (67% of messages fully correct vs 52% for qwen3.5:4b)
+  embedding_model: bge-m3    # used to search the safety documents (RAG)
+  host: http://127.0.0.1:11434  # not "localhost": on Windows it tries IPv6 first and waits 2 s for each connection
+  mode: record               # live | record | replay  (the LLM_MODE environment variable overrides it)
+  temperature: 0.0
+  seed: 42
+  num_ctx: 8192
+  think: false               # no "thinking" tokens: much faster for extraction
+  max_retries: 2
+  cache_dir: data/llm_cache
+
+geo:
+  road_factor: 1.3           # straight-line distance x 1.3 ~ road distance in a city
+  speed_kmh: 25              # average city driving speed
+
+routing:
+  service_minutes: 5         # time spent at each pickup or delivery
+  time_limit_s: 2.0          # safety limit for the OR-Tools search
+  pickup_delay_cost: 1       # 1 minute of pickup delay costs as much as 1 minute of driving
+
+matching:                    # award score = weighted sum, each term between 0 and 1
+  w_need: 0.5                # the charity's own need fit (from its bid)
+  w_distance: 0.3            # closer is better
+  w_fairness: 0.2            # charities that received less so far get a boost
+  max_distance_km: 15
+
+simulation:
+  step_minutes: 1            # one clock tick = 1 simulated minute
+  cfp_timeout_minutes: 3     # how long the matching agent waits for charity bids
+  offer_timeout_minutes: 5   # how long a driver has to accept a delivery before it goes to another driver
+
+features:                    # which parts of the system are switched on (the platform turns on the AI ones)
+  replanning: true           # ablation: false = a cancelled driver's food is lost (as in the baseline)
+  contract_net: true         # ablation: false = nearest open charity, one call, no negotiation
+  llm_intake: false          # read merchant messages with the LLM
+  rag_safety: false          # safety explanations from food-safety documents
+  learning: false            # learn which charities accept which food
+  llm_dispatcher: false      # LLM picks the reaction to a disruption
+  driver_confirmation: false # drivers accept or decline each delivery (on in the dashboard)

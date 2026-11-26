@@ -1,0 +1,128 @@
+# Food safety rules used by the safety agent.
+#
+# Each rule: which items it applies to (categories / storage / name keywords), a condition type
+# implemented in src/foodrescue/safety/rules.py, its parameters, a decision, and the source.
+# Decisions: reject (unsafe), needs_human (information missing, ask the merchant), warn (allowed,
+# with a note). "Time" means the earliest moment the food can be picked up.
+#
+# The source texts are summaries, not quotes. Every rule is checked (README, "Sources"):
+# R01, R02 against EU-DON; R03-R07, R10, R12 against WHO-5K (PDF pages 19-20); R08, R09 against the UK FSA
+# guides on gov.uk (read online, not downloaded); R11 is our own platform policy, labelled as such.
+
+sources:
+  WHO-5K: "World Health Organization, Five Keys to Safer Food Manual (2006), Key 4: Keep food at safe temperatures"
+  EU-1169: "Regulation (EU) No 1169/2011 on food information to consumers, Article 24 ('use by' date)"
+  EU-DON: "European Commission, EU guidelines on food donation, Commission Notice 2017/C 361/01"
+  FSA: "UK Food Standards Agency, Student guide to food safety and hygiene (gov.uk, updated 8 July 2026) and How to chill, freeze and defrost food safely (2017): leftovers within 48 hours, cooked rice within 24 hours"
+  POLICY: "Food Rescue platform policy (our own rule, not a legal source): when the merchant reports a doubt about the food's condition, a person checks it before it is donated"
+
+rules:
+  - id: R01
+    title: Use-by date passed
+    categories: [dairy, meat_fish, prepared_meal]
+    condition: expired
+    decision: reject
+    explanation: After its use-by date, perishable food is considered unsafe and cannot be donated.
+    source: EU-1169
+
+  - id: R02
+    title: Best-before date passed
+    categories: [bakery, produce, dry_goods, other]
+    condition: expired
+    decision: warn
+    explanation: Food past its best-before date may still be donated if it is safe and its packaging is intact; tell the charity.
+    source: EU-DON
+
+  - id: R03
+    title: Cooked food left at room temperature too long
+    categories: [prepared_meal]
+    storage: [ambient]
+    condition: time_since_preparation_over
+    params: {max_minutes: 120}
+    decision: reject
+    explanation: Cooked food must not stay at room temperature for more than 2 hours.
+    source: WHO-5K
+
+  - id: R04
+    title: Cooked food at room temperature, preparation time unknown
+    categories: [prepared_meal]
+    storage: [ambient]
+    condition: preparation_time_unknown
+    decision: needs_human
+    explanation: We need to know when the food was cooked to check the 2-hour room temperature limit.
+    source: WHO-5K
+
+  - id: R05
+    title: Hot food, preparation time unknown
+    categories: [prepared_meal]
+    storage: [hot]
+    condition: preparation_time_unknown
+    decision: needs_human
+    explanation: We need to know when the food was cooked and whether it was kept hot the whole time.
+    source: WHO-5K
+
+  - id: R06
+    title: Hot food must stay hot or be eaten quickly
+    categories: [prepared_meal]
+    storage: [hot]
+    condition: always
+    decision: warn
+    explanation: Food kept hot (above 60 °C) must be delivered quickly; once it cools, the 2-hour limit applies.
+    source: WHO-5K
+
+  - id: R07
+    title: Perishable food not refrigerated
+    categories: [dairy, meat_fish]
+    storage: [ambient, hot]
+    condition: always
+    decision: reject
+    explanation: Milk products, meat and fish must be kept refrigerated (preferably below 5 °C).
+    source: WHO-5K
+
+  - id: R08
+    title: Refrigerated leftovers too old
+    categories: [prepared_meal]
+    storage: [chilled]
+    condition: time_since_preparation_over
+    params: {max_minutes: 2880}
+    decision: reject
+    explanation: Cooked leftovers kept in the fridge should be eaten within 2 days.
+    source: FSA
+
+  - id: R09
+    title: Cooked rice kept too long
+    categories: [prepared_meal]
+    storage: [chilled]
+    name_contains: [rice, riz, rouz, رز, أرز]
+    condition: time_since_preparation_over
+    params: {max_minutes: 1440}
+    decision: reject
+    explanation: Cooked rice should be cooled quickly, kept in the fridge and eaten within 1 day.
+    source: FSA
+
+  - id: R10
+    title: Refrigerated cooked food, preparation time unknown
+    categories: [prepared_meal]
+    storage: [chilled]
+    condition: preparation_time_unknown
+    decision: warn
+    explanation: The preparation time is unknown; the charity should serve this food first.
+    source: WHO-5K
+
+  - id: R11
+    title: The merchant reported a problem with the food
+    categories: [bakery, produce, dairy, meat_fish, prepared_meal, dry_goods, other]
+    condition: reported_problem
+    decision: needs_human
+    explanation: The details mention a problem with the food (damage, smell, packaging, cold chain); a person must confirm it is still safe before it is donated.
+    source: POLICY
+
+  - id: R12
+    title: Food taken out of the fridge, at room temperature for more than 2 hours
+    categories: [bakery, other]
+    storage: [ambient]
+    condition: out_of_fridge_over
+    params: {max_minutes: 120}
+    decision: needs_human
+    explanation: The details say this food was taken out of the fridge more than 2 hours ago. Pastries with cream, custard or other fillings must stay cold, so the merchant must confirm it is still safe.
+    source: WHO-5K
